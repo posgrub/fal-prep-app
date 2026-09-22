@@ -27,8 +27,11 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,svg,png,ico,pdf,woff2}'],
         maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
         navigateFallback: '/index.html',
+        navigateFallbackDenylist: [/^\/api\//],
+        runtimeCaching: [{ urlPattern: ({ url }) => url.pathname.startsWith('/api/'), handler: 'NetworkOnly' }],
       },
     }),
   ],
-  server: { port: 5173 },
+  server: { port: 5173, proxy: { '/api': 'http://localhost:3000' } },
+  preview: { port: 4173, proxy: { '/api': 'http://localhost:3000' } },
 });

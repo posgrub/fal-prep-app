@@ -74,8 +74,8 @@ export class FalPrepDb extends Dexie {
   attemptAnswer!: Table<AttemptAnswer, [string, string]>;
   srState!: Table<SrRow, [string, string]>;
 
-  constructor() {
-    super('fal-prep');
+  constructor(name: string) {
+    super(name);
     this.version(1).stores({
       userProfile: 'id',
       contentMeta: 'key',
@@ -89,7 +89,21 @@ export class FalPrepDb extends Dexie {
   }
 }
 
-export const db = new FalPrepDb();
+/**
+ * One IndexedDB database per signed-in account, so several people can share a phone
+ * without mixing progress. `db` is a live binding: App calls openDbForUser() before
+ * rendering any screen that reads it.
+ */
+export let db: FalPrepDb = new FalPrepDb('fal-prep');
+
+export function openDbForUser(accountId: string): FalPrepDb {
+  const name = `fal-prep-${accountId}`;
+  if (db.name !== name) {
+    if (db.isOpen()) db.close();
+    db = new FalPrepDb(name);
+  }
+  return db;
+}
 
 /**
  * Load the bundled question bank into IndexedDB the first time (or when contentVersion changes).

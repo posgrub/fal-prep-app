@@ -1,4 +1,4 @@
-import type { ReactNode } from 'react';
+import type { CSSProperties, ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import type { Question } from '../types';
 import { documentsById } from '../content';
@@ -21,8 +21,8 @@ export function Header({ title, back, right }: { title: string; back?: string; r
   );
 }
 
-export function Card({ children, className = '' }: { children: ReactNode; className?: string }) {
-  return <section className={'card ' + className}>{children}</section>;
+export function Card({ children, className = '', style }: { children: ReactNode; className?: string; style?: CSSProperties }) {
+  return <section className={'card ' + className} style={style}>{children}</section>;
 }
 
 export function CitationText({ q }: { q: Question }) {

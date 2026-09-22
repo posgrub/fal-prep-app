@@ -1,8 +1,11 @@
 import { useEffect, useState } from 'react';
 import { Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
-import { db, ensureContentLoaded, type UserProfile } from '../db/db';
+import { db, ensureContentLoaded, openDbForUser, type UserProfile } from '../db/db';
+import { useAuth } from '../auth/AuthContext';
 import { TabBar } from '../components/TabBar';
+import Login from '../screens/Login';
+import ChangePassword from '../screens/ChangePassword';
 import Onboarding from '../screens/Onboarding';
 import Today from '../screens/Today';
 import Review from '../screens/Review';
@@ -14,23 +17,37 @@ import Settings from '../screens/Settings';
 import StudyDocuments from '../screens/StudyDocuments';
 import HarrisCounty from '../screens/HarrisCounty';
 import About from '../screens/About';
-
-export interface AppCtx { profile: UserProfile }
+import Users from '../screens/Users';
 
 export default function App() {
+  const { user } = useAuth();
+  if (user === undefined) return <div className="page center"><p className="muted">Loading…</p></div>;
+  if (!user) return <Login />;
+  if (user.mustChangePassword) return <ChangePassword forced />;
+  return <SignedInApp key={user.id} accountId={user.id} />;
+}
+
+function SignedInApp({ accountId }: { accountId: string }) {
   const [ready, setReady] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const profile = useLiveQuery(() => db.userProfile.toCollection().first(), [], null);
   const location = useLocation();
 
   useEffect(() => {
+    setReady(false);
+    openDbForUser(accountId);
     ensureContentLoaded().then(() => setReady(true)).catch(e => setError(String(e)));
-  }, []);
+  }, [accountId]);
+
+  // undefined = still loading, null = no local profile yet (needs onboarding)
+  const profile = useLiveQuery(async (): Promise<UserProfile | null | undefined> => {
+    if (!ready) return undefined;
+    return (await db.userProfile.toCollection().first()) ?? null;
+  }, [ready]);
 
   if (error) return <div className="page"><p className="error">Could not open local storage: {error}</p></div>;
-  if (!ready || profile === null) return <div className="page center"><p className="muted">Loading…</p></div>;
+  if (!ready || profile === undefined) return <div className="page center"><p className="muted">Loading…</p></div>;
 
-  if (!profile) {
+  if (profile === null) {
     return (
       <Routes>
         <Route path="/onboarding" element={<Onboarding />} />
@@ -51,6 +68,8 @@ export default function App() {
           <Route path="/practice" element={<Practice profile={profile} />} />
           <Route path="/progress" element={<Progress profile={profile} />} />
           <Route path="/settings" element={<Settings profile={profile} />} />
+          <Route path="/settings/password" element={<ChangePassword />} />
+          <Route path="/settings/users" element={<Users />} />
           <Route path="/settings/documents" element={<StudyDocuments />} />
           <Route path="/settings/harris-county" element={<HarrisCounty />} />
           <Route path="/settings/about" element={<About />} />

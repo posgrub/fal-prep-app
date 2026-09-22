@@ -1,0 +1,1968 @@
+{
+  "contentVersion": "2026.09.22",
+  "course": "Texas FAL (TFM11 + TFM12)",
+  "studyDaysPerWeek": 5,
+  "dailyTest": {
+    "newQuestions": 10,
+    "reviewQuestions": 5,
+    "passPercent": 80
+  },
+  "mockExam": {
+    "questions": 50,
+    "passPercent": 70,
+    "timeLimitMinutes": 120,
+    "timeLimitNote": "Confirm in PSI Candidate Information Bulletin"
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "dayOfWeek": 1,
+      "id": "d01",
+      "title": "Course kickoff: how Texas licenses fire alarm work",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.overview"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Explain the difference between a company registration and an individual license",
+          "Name the two exams required for the FAL",
+          "Describe the exam format and retake limits"
+        ],
+        "readings": [
+          {
+            "documentId": "tdi-test-info",
+            "section": "License types, tests, fees"
+          }
+        ],
+        "keyTerms": [
+          "SFMO",
+          "ACR",
+          "FAL",
+          "APS",
+          "PSI"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "dayOfWeek": 2,
+      "id": "d02",
+      "title": "TIC 6002: purpose, definitions, and who is covered",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.definitions"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Define the regulated activities: plan, certify, lease, sell, service, install, monitor, maintain",
+          "Identify who and what is exempt"
+        ],
+        "readings": [
+          {
+            "documentId": "tic-6002",
+            "section": "Definitions and applicability"
+          }
+        ],
+        "keyTerms": [
+          "fire alarm system",
+          "fire detection device",
+          "single-station device",
+          "monitoring"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "dayOfWeek": 3,
+      "id": "d03",
+      "title": "TIC 6002: registration certificates and licenses",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.licensing"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "State when a firm must hold a certificate of registration",
+          "State who must hold an individual license",
+          "Explain employment requirements for licensees"
+        ],
+        "readings": [
+          {
+            "documentId": "tic-6002",
+            "section": "Registration and license requirements"
+          }
+        ],
+        "keyTerms": [
+          "certificate of registration",
+          "licensee",
+          "full-time employee"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "dayOfWeek": 4,
+      "id": "d04",
+      "title": "28 TAC \u00a734.606\u201334.607: definitions and adopted standards",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.definitions",
+        "tfm11.standards"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know the TAC definitions that differ from everyday meaning",
+          "List the adopted standards and editions (NFPA 72-2019, NEC 2020)"
+        ],
+        "readings": [
+          {
+            "documentId": "tac-34-600",
+            "section": "\u00a734.606, \u00a734.607"
+          }
+        ],
+        "keyTerms": [
+          "adopted standards",
+          "NFPA 72-2019",
+          "NFPA 70-2020",
+          "UL 827"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "dayOfWeek": 5,
+      "id": "d05",
+      "title": "License scope: who may plan, install, certify, service, monitor",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.scope"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Match each license (APS, FAL, AMT, RAS, RAS-SS, RAL) to its permitted work",
+          "Explain what 'certify' and 'service' mean in Texas"
+        ],
+        "readings": [
+          {
+            "documentId": "tdi-test-info",
+            "section": "Work permitted by license type"
+          }
+        ],
+        "keyTerms": [
+          "APS",
+          "FAL",
+          "AMT",
+          "RAS",
+          "RAS-SS",
+          "RAL",
+          "certify",
+          "service"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 6,
+      "week": 2,
+      "dayOfWeek": 1,
+      "id": "d06",
+      "title": "Applications: company and individual (\u00a734.613)",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.applications"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "List what a complete company application includes",
+          "List what an individual application includes",
+          "Explain monitoring-registration extra requirements"
+        ],
+        "readings": [
+          {
+            "documentId": "tac-34-600",
+            "section": "\u00a734.613"
+          },
+          {
+            "documentId": "tdi-test-info",
+            "section": "Company registrations"
+          }
+        ],
+        "keyTerms": [
+          "SF031",
+          "SF032",
+          "Sircon",
+          "criminal history report"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 7,
+      "week": 2,
+      "dayOfWeek": 2,
+      "id": "d07",
+      "title": "Insurance requirements",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.insurance"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "State the minimum general liability limits",
+          "Explain products and completed operations coverage",
+          "Describe how the certificate must be filled out"
+        ],
+        "readings": [
+          {
+            "documentId": "tdi-insurance",
+            "section": "Certificate of liability insurance"
+          }
+        ],
+        "keyTerms": [
+          "combined single limit",
+          "aggregate",
+          "products and completed operations",
+          "certificate holder"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "dayOfWeek": 3,
+      "id": "d08",
+      "title": "Fees, renewals, and changes",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.fees"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know registration, branch, and license fees",
+          "Explain renewal timing and notices",
+          "Know revision/transfer requirements"
+        ],
+        "readings": [
+          {
+            "documentId": "tdi-test-info",
+            "section": "Fees"
+          },
+          {
+            "documentId": "tic-6002",
+            "section": "Fees and renewal"
+          }
+        ],
+        "keyTerms": [
+          "renewal",
+          "late fee",
+          "branch office",
+          "SF033",
+          "SF227",
+          "SF228"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "dayOfWeek": 4,
+      "id": "d09",
+      "title": "Fingerprints and background checks",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.applications"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Describe the fingerprinting process and who reviews results",
+          "Explain how criminal history can affect eligibility"
+        ],
+        "readings": [
+          {
+            "documentId": "tdi-fingerprints",
+            "section": "Fingerprint instructions"
+          }
+        ],
+        "keyTerms": [
+          "IdentoGO",
+          "service code",
+          "DPS",
+          "FBI"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "dayOfWeek": 5,
+      "id": "d10",
+      "title": "Week 2 consolidation: licensing & registration",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.licensing",
+        "tfm11.applications",
+        "tfm11.insurance",
+        "tfm11.fees"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Mixed review of weeks 1\u20132"
+        ],
+        "readings": [
+          {
+            "documentId": "tac-34-600",
+            "section": "Re-read \u00a734.613"
+          }
+        ],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 11,
+      "week": 3,
+      "dayOfWeek": 1,
+      "id": "d11",
+      "title": "Installation requirements and certificates",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.installation"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Explain what must be completed and left with the owner after installation",
+          "Identify the fire alarm installation certificate (SF035)"
+        ],
+        "readings": [
+          {
+            "documentId": "tac-34-600",
+            "section": "Installation and certificate rules"
+          }
+        ],
+        "keyTerms": [
+          "installation certificate",
+          "record of completion",
+          "SF035"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 12,
+      "week": 3,
+      "dayOfWeek": 2,
+      "id": "d12",
+      "title": "Service, inspection, and testing rules",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.service"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Describe documentation required after service/inspection",
+          "Explain owner notification duties"
+        ],
+        "readings": [
+          {
+            "documentId": "tac-34-600",
+            "section": "Service and inspection rules"
+          }
+        ],
+        "keyTerms": [
+          "inspection",
+          "testing",
+          "service ticket"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 13,
+      "week": 3,
+      "dayOfWeek": 3,
+      "id": "d13",
+      "title": "Labels and tags: yellow and red (\u00a734.623)",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.labels"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Explain when a yellow label is used",
+          "Explain when a red label is used",
+          "Know who must be notified and when"
+        ],
+        "readings": [
+          {
+            "documentId": "tac-34-600",
+            "section": "\u00a734.623"
+          },
+          {
+            "documentId": "tdi-faq",
+            "section": "SFMO FAQ \u2013 labels"
+          }
+        ],
+        "keyTerms": [
+          "yellow label",
+          "red label",
+          "impairment",
+          "deficiency"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 14,
+      "week": 3,
+      "dayOfWeek": 4,
+      "id": "d14",
+      "title": "Monitoring rules",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.monitoring"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Explain who may monitor and the listing requirements for central stations",
+          "Know monthly test-signal expectations"
+        ],
+        "readings": [
+          {
+            "documentId": "tac-34-600",
+            "section": "Monitoring provisions"
+          },
+          {
+            "documentId": "tdi-faq",
+            "section": "SFMO FAQ \u2013 monitoring"
+          }
+        ],
+        "keyTerms": [
+          "central station",
+          "supervising station",
+          "UL 827",
+          "test signal"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "dayOfWeek": 5,
+      "id": "d15",
+      "title": "Residential systems and single-station devices",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.residential"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Explain when selling smoke alarms requires registration",
+          "Describe RAL training requirements"
+        ],
+        "readings": [
+          {
+            "documentId": "tac-34-600",
+            "section": "Residential rules"
+          },
+          {
+            "documentId": "tdi-smoke-alarm-notice",
+            "section": "DIY supplier notice"
+          }
+        ],
+        "keyTerms": [
+          "single-station",
+          "residential fire alarm technician",
+          "approved training school"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 16,
+      "week": 4,
+      "dayOfWeek": 1,
+      "id": "d16",
+      "title": "Prohibited acts, violations, and penalties",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.enforcement"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "List prohibited acts",
+          "Describe administrative penalties and disciplinary actions"
+        ],
+        "readings": [
+          {
+            "documentId": "tic-6002",
+            "section": "Prohibited acts and penalties"
+          }
+        ],
+        "keyTerms": [
+          "administrative penalty",
+          "suspension",
+          "revocation",
+          "cease and desist"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 17,
+      "week": 4,
+      "dayOfWeek": 2,
+      "id": "d17",
+      "title": "Records and display requirements",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.records"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know which records must be kept and for how long",
+          "Know license display/carry requirements"
+        ],
+        "readings": [
+          {
+            "documentId": "tac-34-600",
+            "section": "Records rules"
+          }
+        ],
+        "keyTerms": [
+          "records retention",
+          "license display"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 18,
+      "week": 4,
+      "dayOfWeek": 3,
+      "id": "d18",
+      "title": "TFM11 full-text reread: TIC 6002",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.definitions",
+        "tfm11.licensing",
+        "tfm11.enforcement"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Reread 6002 start to finish; build flashcards of every number"
+        ],
+        "readings": [
+          {
+            "documentId": "tic-6002",
+            "section": "Entire chapter"
+          }
+        ],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 19,
+      "week": 4,
+      "dayOfWeek": 4,
+      "id": "d19",
+      "title": "TFM11 full-text reread: 28 TAC \u00a734.600",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.applications",
+        "tfm11.labels",
+        "tfm11.monitoring",
+        "tfm11.installation"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Reread the rules start to finish; build flashcards of every number"
+        ],
+        "readings": [
+          {
+            "documentId": "tac-34-600",
+            "section": "Entire subchapter"
+          }
+        ],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 20,
+      "week": 4,
+      "dayOfWeek": 5,
+      "id": "d20",
+      "title": "TFM11 weak-area day",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.*"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "App selects your 3 weakest TFM11 topics"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 21,
+      "week": 5,
+      "dayOfWeek": 1,
+      "id": "d21",
+      "title": "TFM11 exam week: numbers drill",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.fees",
+        "tfm11.insurance",
+        "tfm11.overview"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Fees, limits, deadlines drill"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 22,
+      "week": 5,
+      "dayOfWeek": 2,
+      "id": "d22",
+      "title": "TFM11 exam week: scope drill",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.scope",
+        "tfm11.licensing"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "License scope and definitions drill"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 23,
+      "week": 5,
+      "dayOfWeek": 3,
+      "id": "d23",
+      "title": "TFM11 exam week: rules drill + exam-day checklist",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.labels",
+        "tfm11.monitoring",
+        "tfm11.installation"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Final drill; review exam-day checklist"
+        ],
+        "readings": [
+          {
+            "documentId": "psi-bulletin",
+            "section": "ID and test-day rules"
+          }
+        ],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 24,
+      "week": 5,
+      "dayOfWeek": 4,
+      "id": "d24",
+      "title": "NFPA 72 orientation: structure and definitions (Ch. 1\u20133)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.orientation"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Navigate NFPA 72 chapters",
+          "Know key Ch. 3 definitions"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 1\u20133"
+          }
+        ],
+        "keyTerms": [
+          "AHJ",
+          "listed",
+          "approved",
+          "shall",
+          "should"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 25,
+      "week": 5,
+      "dayOfWeek": 5,
+      "id": "d25",
+      "title": "Documentation (Ch. 7)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.documentation"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know required documentation: record of completion, as-builts, inspection records",
+          "Know record retention requirements"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 7"
+          }
+        ],
+        "keyTerms": [
+          "record of completion",
+          "as-built drawings",
+          "sequence of operations"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 26,
+      "week": 6,
+      "dayOfWeek": 1,
+      "id": "d26",
+      "title": "Fundamentals: equipment, power supplies (Ch. 10)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.fundamentals"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Describe primary and secondary power requirements",
+          "Perform a basic standby battery calculation"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 10"
+          }
+        ],
+        "keyTerms": [
+          "primary power",
+          "secondary power",
+          "standby",
+          "alarm load"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 27,
+      "week": 6,
+      "dayOfWeek": 2,
+      "id": "d27",
+      "title": "Fundamentals: signals, priorities, annunciation (Ch. 10)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.fundamentals"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Distinguish alarm, supervisory, and trouble signals",
+          "Explain signal priority and distinctive signals"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 10"
+          }
+        ],
+        "keyTerms": [
+          "alarm signal",
+          "supervisory signal",
+          "trouble signal",
+          "annunciator"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 28,
+      "week": 6,
+      "dayOfWeek": 3,
+      "id": "d28",
+      "title": "Circuits and pathways (Ch. 12)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.pathways"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Describe Class A, B, C, D, E, N, X pathways",
+          "Explain pathway survivability levels"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 12"
+          }
+        ],
+        "keyTerms": [
+          "Class A",
+          "Class B",
+          "Class X",
+          "Class N",
+          "survivability"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 29,
+      "week": 6,
+      "dayOfWeek": 4,
+      "id": "d29",
+      "title": "NEC Article 760: fire alarm circuits",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.nec760"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Distinguish PLFA from NPLFA circuits",
+          "Know cable types and substitution hierarchy",
+          "Know separation rules"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NEC 2020 Art. 760"
+          }
+        ],
+        "keyTerms": [
+          "PLFA",
+          "NPLFA",
+          "FPLP",
+          "FPLR",
+          "FPL",
+          "CI cable"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 30,
+      "week": 6,
+      "dayOfWeek": 5,
+      "id": "d30",
+      "title": "NEC Article 300 + general wiring practices",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.nec300"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Apply general wiring methods, support, and penetration rules",
+          "Refresh basic electrical principles (Ohm's law, voltage drop)"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NEC 2020 Art. 300"
+          }
+        ],
+        "keyTerms": [
+          "firestopping",
+          "voltage drop",
+          "Ohm's law"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 31,
+      "week": 7,
+      "dayOfWeek": 1,
+      "id": "d31",
+      "title": "Initiating devices: general requirements (Ch. 17)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.initiating"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know general installation rules for initiating devices",
+          "Explain detector coverage terms"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 17"
+          }
+        ],
+        "keyTerms": [
+          "initiating device",
+          "total coverage",
+          "partial coverage"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 32,
+      "week": 7,
+      "dayOfWeek": 2,
+      "id": "d32",
+      "title": "Heat detectors (Ch. 17)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.heat"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know heat detector types and operating principles",
+          "Apply listed spacing and ceiling height reductions"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 17 \u2013 heat"
+          }
+        ],
+        "keyTerms": [
+          "fixed temperature",
+          "rate of rise",
+          "rate compensated",
+          "listed spacing"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 33,
+      "week": 7,
+      "dayOfWeek": 3,
+      "id": "d33",
+      "title": "Smoke detectors: operating principles (Ch. 17)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.smoke"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Explain ionization, photoelectric, beam, and air-sampling operation",
+          "Know where each type fits"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 17 \u2013 smoke"
+          }
+        ],
+        "keyTerms": [
+          "ionization",
+          "photoelectric",
+          "projected beam",
+          "air sampling"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 34,
+      "week": 7,
+      "dayOfWeek": 4,
+      "id": "d34",
+      "title": "Smoke detectors: location and spacing (Ch. 17)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.smoke"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Apply smooth-ceiling spacing",
+          "Apply beam, joist, and sloped ceiling rules",
+          "Know HVAC airflow and stratification considerations"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 17 \u2013 spacing"
+          }
+        ],
+        "keyTerms": [
+          "nominal spacing",
+          "smooth ceiling",
+          "beam pocket",
+          "stratification"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 35,
+      "week": 7,
+      "dayOfWeek": 5,
+      "id": "d35",
+      "title": "Duct detectors, manual stations, waterflow & supervisory (Ch. 17)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.initiating"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know manual fire alarm box location rules",
+          "Know duct detector and waterflow/tamper interfaces"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 17"
+          },
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 90A-2021 duct detection"
+          }
+        ],
+        "keyTerms": [
+          "manual fire alarm box",
+          "duct detector",
+          "waterflow switch",
+          "valve supervisory (tamper)"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 36,
+      "week": 8,
+      "dayOfWeek": 1,
+      "id": "d36",
+      "title": "Notification appliances: audible (Ch. 18)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.audible"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Apply public and private mode audibility rules",
+          "Know maximum sound level and temporal-3 pattern"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 18 \u2013 audible"
+          }
+        ],
+        "keyTerms": [
+          "public mode",
+          "private mode",
+          "dBA",
+          "temporal-3",
+          "ambient"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 37,
+      "week": 8,
+      "dayOfWeek": 2,
+      "id": "d37",
+      "title": "Notification appliances: visual (Ch. 18)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.visual"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Apply candela and spacing tables",
+          "Know mounting heights and synchronization rules"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 18 \u2013 visual"
+          }
+        ],
+        "keyTerms": [
+          "candela",
+          "visual notification appliance",
+          "synchronization",
+          "room spacing"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 38,
+      "week": 8,
+      "dayOfWeek": 3,
+      "id": "d38",
+      "title": "Notification: textual, tactile, and voice (Ch. 18, 24)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.voice"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know intelligibility basics",
+          "Know EVACS and mass notification basics"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 18, 24"
+          }
+        ],
+        "keyTerms": [
+          "intelligibility",
+          "EVACS",
+          "mass notification",
+          "acoustically distinguishable space"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 39,
+      "week": 8,
+      "dayOfWeek": 4,
+      "id": "d39",
+      "title": "Emergency control function interfaces (Ch. 21)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.ecf"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Explain elevator recall and shunt trip interfaces",
+          "Explain HVAC shutdown and door release interfaces"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 21"
+          }
+        ],
+        "keyTerms": [
+          "elevator recall",
+          "shunt trip",
+          "door release",
+          "HVAC shutdown"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 40,
+      "week": 8,
+      "dayOfWeek": 5,
+      "id": "d40",
+      "title": "Protected premises systems (Ch. 23)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.premises"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Describe system features, performance, and integrity monitoring",
+          "Explain combination systems and suppression interfaces"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 23"
+          }
+        ],
+        "keyTerms": [
+          "protected premises",
+          "combination system",
+          "releasing service"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 41,
+      "week": 9,
+      "dayOfWeek": 1,
+      "id": "d41",
+      "title": "Supervising station systems (Ch. 26)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.supervising"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Distinguish central station, remote, and proprietary supervising stations",
+          "Know communication methods and timing"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 26"
+          }
+        ],
+        "keyTerms": [
+          "central station",
+          "remote supervising station",
+          "proprietary",
+          "DACT",
+          "performance-based technologies"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 42,
+      "week": 9,
+      "dayOfWeek": 2,
+      "id": "d42",
+      "title": "Supervising station: communications and signal handling (Ch. 26)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.supervising"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know dual-path requirements and test-signal timing",
+          "Know operator action timing for alarms/supervisory/trouble"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 26"
+          }
+        ],
+        "keyTerms": [
+          "dual path",
+          "test signal",
+          "retransmission"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 43,
+      "week": 9,
+      "dayOfWeek": 3,
+      "id": "d43",
+      "title": "ITM: inspection frequencies (Ch. 14)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.itm"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Use the visual inspection table",
+          "Know initial vs. periodic inspection"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 14 \u2013 Table 14.3.1"
+          }
+        ],
+        "keyTerms": [
+          "visual inspection",
+          "initial acceptance",
+          "reacceptance"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 44,
+      "week": 9,
+      "dayOfWeek": 4,
+      "id": "d44",
+      "title": "ITM: testing methods and frequencies (Ch. 14)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.itm"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Use the testing frequency table",
+          "Know detector sensitivity testing rules",
+          "Know battery testing"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 14 \u2013 Table 14.4.3.2"
+          }
+        ],
+        "keyTerms": [
+          "sensitivity testing",
+          "functional test",
+          "battery load test"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 45,
+      "week": 9,
+      "dayOfWeek": 5,
+      "id": "d45",
+      "title": "ITM: records, impairments, and qualified personnel (Ch. 14)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.itm",
+        "tfm12.documentation"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know record keeping and qualification requirements",
+          "Handle impairments and notifications"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 72-2019 Ch. 14"
+          }
+        ],
+        "keyTerms": [
+          "qualified personnel",
+          "impairment",
+          "inspection report"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 46,
+      "week": 10,
+      "dayOfWeek": 1,
+      "id": "d46",
+      "title": "Related standards: sprinklers and water-based ITM (NFPA 13, 25)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.related"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know how waterflow and valve supervisory devices tie to the alarm system",
+          "Know water-based ITM items that involve alarm devices"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 13-2019, NFPA 25-2020 \u2013 alarm-related sections"
+          }
+        ],
+        "keyTerms": [
+          "waterflow alarm",
+          "control valve",
+          "fire pump supervision"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 47,
+      "week": 10,
+      "dayOfWeek": 2,
+      "id": "d47",
+      "title": "Related standards: kitchen and dry chemical systems (NFPA 17, 17A)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.related"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Explain how hood suppression systems interface with the fire alarm system"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 17-2021, 17A-2021 \u2013 alarm interfaces"
+          }
+        ],
+        "keyTerms": [
+          "wet chemical",
+          "dry chemical",
+          "fuel shutoff",
+          "alarm initiation"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 48,
+      "week": 10,
+      "dayOfWeek": 3,
+      "id": "d48",
+      "title": "Related standards: HVAC (NFPA 90A)",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.related"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Know when duct smoke detection is required and what it controls"
+        ],
+        "readings": [
+          {
+            "documentId": "nfpa-free",
+            "section": "NFPA 90A-2021 \u2013 smoke detection"
+          }
+        ],
+        "keyTerms": [
+          "air handling unit",
+          "smoke damper",
+          "return air"
+        ]
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 49,
+      "week": 10,
+      "dayOfWeek": 4,
+      "id": "d49",
+      "title": "Math day: batteries, voltage drop, candela/spacing lookups",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.fundamentals",
+        "tfm12.nec300",
+        "tfm12.visual"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Work 10 calculation problems start to finish"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 50,
+      "week": 10,
+      "dayOfWeek": 5,
+      "id": "d50",
+      "title": "Mixed technical review 1",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.initiating",
+        "tfm12.smoke",
+        "tfm12.heat",
+        "tfm12.audible",
+        "tfm12.visual"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Mixed review weeks 7\u20138"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 51,
+      "week": 11,
+      "dayOfWeek": 1,
+      "id": "d51",
+      "title": "Mixed technical review 2",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.pathways",
+        "tfm12.nec760",
+        "tfm12.supervising",
+        "tfm12.itm"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Mixed review weeks 6, 9"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 52,
+      "week": 11,
+      "dayOfWeek": 2,
+      "id": "d52",
+      "title": "Weak-area day 1",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.*"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "App selects your 3 weakest TFM12 topics"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 53,
+      "week": 11,
+      "dayOfWeek": 3,
+      "id": "d53",
+      "title": "Figures and drawings practice",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.smoke",
+        "tfm12.visual",
+        "tfm12.pathways"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Practice questions that reference drawings and tables"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 54,
+      "week": 11,
+      "dayOfWeek": 4,
+      "id": "d54",
+      "title": "Weak-area day 2",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.*"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "App selects your 3 weakest TFM12 topics"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 55,
+      "week": 11,
+      "dayOfWeek": 5,
+      "id": "d55",
+      "title": "TFM11 refresher (keep it fresh)",
+      "exam": "TFM11",
+      "topicTags": [
+        "tfm11.*"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Short TFM11 refresh \u2013 rules still matter on the job"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 56,
+      "week": 12,
+      "dayOfWeek": 1,
+      "id": "d56",
+      "title": "Final: Ch. 14 tables drill",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.itm"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Rapid-fire ITM frequency drill"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 57,
+      "week": 12,
+      "dayOfWeek": 2,
+      "id": "d57",
+      "title": "Final: Ch. 17 spacing drill",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.smoke",
+        "tfm12.heat",
+        "tfm12.initiating"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Rapid-fire spacing/location drill"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 58,
+      "week": 12,
+      "dayOfWeek": 3,
+      "id": "d58",
+      "title": "Final: Ch. 18 notification drill",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.audible",
+        "tfm12.visual"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Rapid-fire notification drill"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 59,
+      "week": 12,
+      "dayOfWeek": 4,
+      "id": "d59",
+      "title": "Final: NEC 760 + pathways drill",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.nec760",
+        "tfm12.pathways"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Rapid-fire wiring drill"
+        ],
+        "readings": [],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    },
+    {
+      "day": 60,
+      "week": 12,
+      "dayOfWeek": 5,
+      "id": "d60",
+      "title": "Exam-eve light review + checklist",
+      "exam": "TFM12",
+      "topicTags": [
+        "tfm12.*"
+      ],
+      "review": {
+        "estimatedMinutes": 30,
+        "objectives": [
+          "Light mixed set; confirm exam-day logistics"
+        ],
+        "readings": [
+          {
+            "documentId": "psi-bulletin",
+            "section": "ID and test-day rules"
+          }
+        ],
+        "keyTerms": []
+      },
+      "dailyTest": {
+        "useDefaults": true
+      }
+    }
+  ],
+  "mockExams": [
+    {
+      "week": 1,
+      "id": "mock-w01",
+      "exam": "TFM11",
+      "blueprint": "TFM11",
+      "label": "Week 1 TFM11 mock exam",
+      "note": "Early mock: only topics covered so far are drawn"
+    },
+    {
+      "week": 2,
+      "id": "mock-w02",
+      "exam": "TFM11",
+      "blueprint": "TFM11",
+      "label": "Week 2 TFM11 mock exam",
+      "note": "Early mock: only topics covered so far are drawn"
+    },
+    {
+      "week": 3,
+      "id": "mock-w03",
+      "exam": "TFM11",
+      "blueprint": "TFM11",
+      "label": "Week 3 TFM11 mock exam",
+      "note": "Early mock: only topics covered so far are drawn"
+    },
+    {
+      "week": 4,
+      "id": "mock-w04",
+      "exam": "TFM11",
+      "blueprint": "TFM11",
+      "label": "Week 4 TFM11 mock exam"
+    },
+    {
+      "week": 5,
+      "id": "mock-w05",
+      "exam": "TFM11",
+      "blueprint": "TFM11",
+      "label": "Week 5 TFM11 mock exam"
+    },
+    {
+      "week": 6,
+      "id": "mock-w06",
+      "exam": "TFM12",
+      "blueprint": "TFM12",
+      "label": "Week 6 TFM12 mock exam"
+    },
+    {
+      "week": 7,
+      "id": "mock-w07",
+      "exam": "TFM12",
+      "blueprint": "TFM12",
+      "label": "Week 7 TFM12 mock exam"
+    },
+    {
+      "week": 8,
+      "id": "mock-w08",
+      "exam": "TFM12",
+      "blueprint": "TFM12",
+      "label": "Week 8 TFM12 mock exam"
+    },
+    {
+      "week": 9,
+      "id": "mock-w09",
+      "exam": "TFM12",
+      "blueprint": "TFM12",
+      "label": "Week 9 TFM12 mock exam"
+    },
+    {
+      "week": 10,
+      "id": "mock-w10",
+      "exam": "TFM12",
+      "blueprint": "TFM12",
+      "label": "Week 10 TFM12 mock exam"
+    },
+    {
+      "week": 11,
+      "id": "mock-w11",
+      "exam": "TFM12",
+      "blueprint": "TFM12",
+      "label": "Week 11 TFM12 mock exam"
+    },
+    {
+      "week": 12,
+      "id": "mock-w12",
+      "exam": "TFM12",
+      "blueprint": "TFM12",
+      "label": "Week 12 TFM12 mock exam"
+    },
+    {
+      "week": 5,
+      "id": "mock-w05b",
+      "exam": "TFM11",
+      "blueprint": "TFM11",
+      "label": "TFM11 final mock (take before the real exam)"
+    }
+  ]
+}

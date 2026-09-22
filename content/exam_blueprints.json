@@ -1,0 +1,141 @@
+{
+  "TFM11": {
+    "questions": 50,
+    "topics": [
+      {
+        "tag": "tfm11.overview",
+        "weight": 0.06
+      },
+      {
+        "tag": "tfm11.definitions",
+        "weight": 0.12
+      },
+      {
+        "tag": "tfm11.licensing",
+        "weight": 0.14
+      },
+      {
+        "tag": "tfm11.scope",
+        "weight": 0.12
+      },
+      {
+        "tag": "tfm11.applications",
+        "weight": 0.1
+      },
+      {
+        "tag": "tfm11.insurance",
+        "weight": 0.06
+      },
+      {
+        "tag": "tfm11.fees",
+        "weight": 0.08
+      },
+      {
+        "tag": "tfm11.standards",
+        "weight": 0.04
+      },
+      {
+        "tag": "tfm11.installation",
+        "weight": 0.06
+      },
+      {
+        "tag": "tfm11.service",
+        "weight": 0.04
+      },
+      {
+        "tag": "tfm11.labels",
+        "weight": 0.06
+      },
+      {
+        "tag": "tfm11.monitoring",
+        "weight": 0.04
+      },
+      {
+        "tag": "tfm11.residential",
+        "weight": 0.02
+      },
+      {
+        "tag": "tfm11.enforcement",
+        "weight": 0.04
+      },
+      {
+        "tag": "tfm11.records",
+        "weight": 0.02
+      }
+    ]
+  },
+  "TFM12": {
+    "questions": 50,
+    "topics": [
+      {
+        "tag": "tfm12.orientation",
+        "weight": 0.04
+      },
+      {
+        "tag": "tfm12.documentation",
+        "weight": 0.04
+      },
+      {
+        "tag": "tfm12.fundamentals",
+        "weight": 0.08
+      },
+      {
+        "tag": "tfm12.pathways",
+        "weight": 0.08
+      },
+      {
+        "tag": "tfm12.nec760",
+        "weight": 0.08
+      },
+      {
+        "tag": "tfm12.nec300",
+        "weight": 0.04
+      },
+      {
+        "tag": "tfm12.initiating",
+        "weight": 0.06
+      },
+      {
+        "tag": "tfm12.heat",
+        "weight": 0.06
+      },
+      {
+        "tag": "tfm12.smoke",
+        "weight": 0.1
+      },
+      {
+        "tag": "tfm12.audible",
+        "weight": 0.06
+      },
+      {
+        "tag": "tfm12.visual",
+        "weight": 0.06
+      },
+      {
+        "tag": "tfm12.voice",
+        "weight": 0.02
+      },
+      {
+        "tag": "tfm12.ecf",
+        "weight": 0.04
+      },
+      {
+        "tag": "tfm12.premises",
+        "weight": 0.04
+      },
+      {
+        "tag": "tfm12.supervising",
+        "weight": 0.06
+      },
+      {
+        "tag": "tfm12.itm",
+        "weight": 0.1
+      },
+      {
+        "tag": "tfm12.related",
+        "weight": 0.04
+      }
+    ]
+  },
+  "note": "Weights are an estimate built from TDI's published topic list, not an official PSI blueprint. Adjust as you learn more."
+}

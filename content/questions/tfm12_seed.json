@@ -1,0 +1,530 @@
+{
+  "bank": "TFM12 seed bank \u2013 UNREVIEWED; a licensed reviewer must verify against NFPA 72-2019 / NEC 2020",
+  "contentVersion": "2026.09.22",
+  "questions": [
+    {
+      "id": "tfm12-001",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.orientation"
+      ],
+      "difficulty": 1,
+      "stem": "Which NFPA standard is the National Fire Alarm and Signaling Code?",
+      "options": [
+        {
+          "id": "a",
+          "text": "NFPA 13"
+        },
+        {
+          "id": "b",
+          "text": "NFPA 70"
+        },
+        {
+          "id": "c",
+          "text": "NFPA 72"
+        },
+        {
+          "id": "d",
+          "text": "NFPA 101"
+        }
+      ],
+      "answer": "c",
+      "explanation": "NFPA 72 is the National Fire Alarm and Signaling Code.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "Title"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-002",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.nec760"
+      ],
+      "difficulty": 1,
+      "stem": "Which NEC article covers fire alarm systems wiring?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 300"
+        },
+        {
+          "id": "b",
+          "text": "Article 725"
+        },
+        {
+          "id": "c",
+          "text": "Article 760"
+        },
+        {
+          "id": "d",
+          "text": "Article 800"
+        }
+      ],
+      "answer": "c",
+      "explanation": "NEC Article 760 covers fire alarm systems.",
+      "citation": {
+        "documentId": "nec-2020",
+        "section": "Art. 760"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-003",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.orientation"
+      ],
+      "difficulty": 1,
+      "stem": "Which NFPA 72-2019 chapter covers inspection, testing, and maintenance?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chapter 10"
+        },
+        {
+          "id": "b",
+          "text": "Chapter 14"
+        },
+        {
+          "id": "c",
+          "text": "Chapter 17"
+        },
+        {
+          "id": "d",
+          "text": "Chapter 26"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Chapter 14 is Inspection, Testing, and Maintenance.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "Ch. 14"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-004",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.orientation"
+      ],
+      "difficulty": 1,
+      "stem": "Which NFPA 72-2019 chapter covers initiating devices?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chapter 12"
+        },
+        {
+          "id": "b",
+          "text": "Chapter 17"
+        },
+        {
+          "id": "c",
+          "text": "Chapter 18"
+        },
+        {
+          "id": "d",
+          "text": "Chapter 21"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Chapter 17 covers initiating devices.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "Ch. 17"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-005",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.orientation"
+      ],
+      "difficulty": 1,
+      "stem": "Which NFPA 72-2019 chapter covers notification appliances?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chapter 14"
+        },
+        {
+          "id": "b",
+          "text": "Chapter 17"
+        },
+        {
+          "id": "c",
+          "text": "Chapter 18"
+        },
+        {
+          "id": "d",
+          "text": "Chapter 23"
+        }
+      ],
+      "answer": "c",
+      "explanation": "Chapter 18 covers notification appliances.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "Ch. 18"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-006",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.supervising"
+      ],
+      "difficulty": 1,
+      "stem": "Which NFPA 72-2019 chapter covers supervising station alarm systems?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chapter 21"
+        },
+        {
+          "id": "b",
+          "text": "Chapter 23"
+        },
+        {
+          "id": "c",
+          "text": "Chapter 24"
+        },
+        {
+          "id": "d",
+          "text": "Chapter 26"
+        }
+      ],
+      "answer": "d",
+      "explanation": "Chapter 26 covers supervising station alarm systems.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "Ch. 26"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-007",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.smoke"
+      ],
+      "difficulty": 2,
+      "stem": "On a smooth ceiling, what is the nominal spacing for spot-type smoke detectors when no other criteria apply?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 ft"
+        },
+        {
+          "id": "b",
+          "text": "25 ft"
+        },
+        {
+          "id": "c",
+          "text": "30 ft"
+        },
+        {
+          "id": "d",
+          "text": "40 ft"
+        }
+      ],
+      "answer": "c",
+      "explanation": "A nominal spacing of 30 ft is permitted on smooth ceilings for spot-type smoke detectors.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "\u00a717.7.3.2.3.1"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-008",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.fundamentals"
+      ],
+      "difficulty": 2,
+      "stem": "For a non-voice protected premises fire alarm system, secondary power must operate the system under quiescent load for ____ and then in alarm for ____.",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 hours; 5 minutes"
+        },
+        {
+          "id": "b",
+          "text": "24 hours; 5 minutes"
+        },
+        {
+          "id": "c",
+          "text": "24 hours; 15 minutes"
+        },
+        {
+          "id": "d",
+          "text": "60 hours; 15 minutes"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Secondary power: 24 hours standby followed by 5 minutes of alarm (15 minutes for emergency voice systems).",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "\u00a710.6.7.2"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-009",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.audible"
+      ],
+      "difficulty": 2,
+      "stem": "In public mode, audible signals must be at least how many dB above the average ambient sound level?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 dB"
+        },
+        {
+          "id": "b",
+          "text": "10 dB"
+        },
+        {
+          "id": "c",
+          "text": "15 dB"
+        },
+        {
+          "id": "d",
+          "text": "20 dB"
+        }
+      ],
+      "answer": "c",
+      "explanation": "Public mode audible signals must be at least 15 dB above the average ambient sound level.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "\u00a718.4.3"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-010",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.audible"
+      ],
+      "difficulty": 3,
+      "stem": "What is the maximum sound level allowed at the minimum hearing distance from an audible appliance under NFPA 72-2019?",
+      "options": [
+        {
+          "id": "a",
+          "text": "100 dBA"
+        },
+        {
+          "id": "b",
+          "text": "105 dBA"
+        },
+        {
+          "id": "c",
+          "text": "110 dBA"
+        },
+        {
+          "id": "d",
+          "text": "120 dBA"
+        }
+      ],
+      "answer": "c",
+      "explanation": "NFPA 72-2019 limits the total sound pressure level to 110 dBA at the minimum hearing distance.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "\u00a718.4.1"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-011",
+      "exam": "TFM12",
+      "type": "true_false",
+      "topicTags": [
+        "tfm12.visual"
+      ],
+      "difficulty": 2,
+      "stem": "When more than two visual notification appliances are in any field of view, their flashes must be synchronized.",
+      "options": [
+        {
+          "id": "t",
+          "text": "True"
+        },
+        {
+          "id": "f",
+          "text": "False"
+        }
+      ],
+      "answer": "t",
+      "explanation": "Visual appliances must be synchronized where more than two are in the field of view.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "\u00a718.5.5"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-012",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.nec760"
+      ],
+      "difficulty": 2,
+      "stem": "Which power-limited fire alarm cable type is suitable for plenums?",
+      "options": [
+        {
+          "id": "a",
+          "text": "FPL"
+        },
+        {
+          "id": "b",
+          "text": "FPLR"
+        },
+        {
+          "id": "c",
+          "text": "FPLP"
+        },
+        {
+          "id": "d",
+          "text": "CL2"
+        }
+      ],
+      "answer": "c",
+      "explanation": "FPLP is the plenum-rated power-limited fire alarm cable; FPLR is riser; FPL is general use.",
+      "citation": {
+        "documentId": "nec-2020",
+        "section": "\u00a7760.176 / 760.154"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-013",
+      "exam": "TFM12",
+      "type": "true_false",
+      "topicTags": [
+        "tfm12.pathways"
+      ],
+      "difficulty": 2,
+      "stem": "A Class B pathway continues to operate beyond a single open fault.",
+      "options": [
+        {
+          "id": "t",
+          "text": "True"
+        },
+        {
+          "id": "f",
+          "text": "False"
+        }
+      ],
+      "answer": "f",
+      "explanation": "Class B pathways do not operate past a single open; Class A and Class X can.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "Ch. 12"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-014",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.orientation"
+      ],
+      "difficulty": 2,
+      "stem": "Which NFPA 72-2019 chapter (excluded from the TFM12 technical test) covers single- and multiple-station alarms and household signaling systems?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chapter 23"
+        },
+        {
+          "id": "b",
+          "text": "Chapter 24"
+        },
+        {
+          "id": "c",
+          "text": "Chapter 27"
+        },
+        {
+          "id": "d",
+          "text": "Chapter 29"
+        }
+      ],
+      "answer": "d",
+      "explanation": "Chapter 29 covers household systems; the TFM12 test excludes the household chapter.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "Ch. 29"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    },
+    {
+      "id": "tfm12-015",
+      "exam": "TFM12",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm12.ecf"
+      ],
+      "difficulty": 1,
+      "stem": "Which NFPA 72-2019 chapter covers elevator recall, HVAC shutdown, and door release interfaces?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chapter 18"
+        },
+        {
+          "id": "b",
+          "text": "Chapter 21"
+        },
+        {
+          "id": "c",
+          "text": "Chapter 23"
+        },
+        {
+          "id": "d",
+          "text": "Chapter 24"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Chapter 21 covers emergency control function interfaces.",
+      "citation": {
+        "documentId": "nfpa-72-2019",
+        "section": "Ch. 21"
+      },
+      "needsReview": true,
+      "sourceVerified": false
+    }
+  ]
+}

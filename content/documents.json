@@ -1,0 +1,223 @@
+{
+  "contentVersion": "2026.09.22",
+  "groups": [
+    {
+      "id": "tfm11",
+      "title": "TFM11 \u2013 Statutes & Rules",
+      "items": [
+        {
+          "id": "tic-6002",
+          "title": "Texas Insurance Code Chapter 6002 \u2013 Fire Detection and Alarm Devices",
+          "purpose": "Primary source for TFM11. Read the whole chapter twice.",
+          "type": "external",
+          "url": "https://statutes.capitol.texas.gov/Docs/IN/htm/IN.6002.htm",
+          "required": true,
+          "cost": "free",
+          "lastVerified": "2026-09-22",
+          "allowOfflineCopy": true
+        },
+        {
+          "id": "tac-34-600",
+          "title": "28 TAC Chapter 34, Subchapter F (\u00a734.600) \u2013 Fire Alarm Rules",
+          "purpose": "Primary source for TFM11: applications, labels, monitoring, adopted standards.",
+          "type": "external",
+          "url": "https://texas-sos.appianportalsgov.com/rules-and-meetings?chapter=34&interface=VIEW_TAC&part=1&subchapter=F&title=28",
+          "required": true,
+          "cost": "free",
+          "lastVerified": "2026-09-22",
+          "allowOfflineCopy": true
+        },
+        {
+          "id": "tdi-faq",
+          "title": "SFMO frequently asked questions",
+          "purpose": "Official answers on labels, monitoring, residential devices.",
+          "type": "external",
+          "url": "https://www.tdi.texas.gov/fire/fmfaq.html",
+          "required": false,
+          "cost": "free",
+          "lastVerified": "2026-09-22"
+        },
+        {
+          "id": "tdi-smoke-alarm-notice",
+          "title": "SFMO notice: licensing for smoke alarms and DIY suppliers (Sept 2018)",
+          "purpose": "When selling/installing smoke alarms requires registration.",
+          "type": "external",
+          "url": "https://tdi.texas.gov/Fire/fmnseptember2018.html",
+          "required": false,
+          "cost": "free",
+          "lastVerified": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": "tfm12",
+      "title": "TFM12 \u2013 Technical",
+      "items": [
+        {
+          "id": "nfpa-free",
+          "title": "NFPA free read-only access (NFPA 72, NEC, 13, 17, 17A, 25, 90A)",
+          "purpose": "Read the adopted editions free online with an NFPA account. Not downloadable.",
+          "type": "external",
+          "url": "https://www.nfpa.org/Codes-and-Standards/All-Codes-and-Standards/Free-access",
+          "required": true,
+          "cost": "free",
+          "lastVerified": "2026-09-22",
+          "copyrightNote": "Copyrighted by NFPA \u2013 not included in the app."
+        },
+        {
+          "id": "nfpa-72-2019",
+          "title": "NFPA 72, National Fire Alarm and Signaling Code \u2013 2019 edition",
+          "purpose": "Core of TFM12. Buy the 2019 edition (new or used) to tab and highlight.",
+          "type": "external",
+          "url": "https://www.nfpa.org/product/nfpa-72-national-fire-alarm-and-signaling-code/p0072code",
+          "required": true,
+          "cost": "paid",
+          "edition": "2019",
+          "lastVerified": "2026-09-22",
+          "copyrightNote": "Copyrighted by NFPA \u2013 not included in the app. Make sure you buy the 2019 edition."
+        },
+        {
+          "id": "nec-2020",
+          "title": "NFPA 70, National Electrical Code \u2013 2020 edition (Art. 760 & 300)",
+          "purpose": "Fire alarm circuit wiring rules for TFM12.",
+          "type": "external",
+          "url": "https://www.nfpa.org/Codes-and-Standards/All-Codes-and-Standards/Free-access",
+          "required": true,
+          "cost": "free online / paid book",
+          "edition": "2020",
+          "lastVerified": "2026-09-22",
+          "copyrightNote": "Copyrighted by NFPA \u2013 not included in the app."
+        },
+        {
+          "id": "tdi-adoption-order",
+          "title": "TDI Commissioner's Order 2023-7848 \u2013 adopted NFPA editions",
+          "purpose": "Proof of which editions are tested (NFPA 72-2019, NEC 2020; effective Sept 1, 2023).",
+          "type": "external",
+          "url": "https://www.tdi.texas.gov/rules/2023/documents/20237848.pdf",
+          "required": false,
+          "cost": "free",
+          "lastVerified": "2026-09-22",
+          "allowOfflineCopy": true
+        }
+      ]
+    },
+    {
+      "id": "licensing",
+      "title": "Exam & licensing",
+      "items": [
+        {
+          "id": "tdi-test-info",
+          "title": "TDI \u2013 Fire alarm registration, license, and test information",
+          "purpose": "Official syllabus: license scopes, test topics, references, fees.",
+          "type": "external",
+          "url": "https://www.tdi.texas.gov/fire/information-fire-alarm-registration-license-test.html",
+          "required": true,
+          "cost": "free",
+          "lastVerified": "2026-09-22"
+        },
+        {
+          "id": "psi-bulletin",
+          "title": "PSI \u2013 Texas State Fire Marshal exams (Candidate Information Bulletin)",
+          "purpose": "Register, schedule, fees, ID rules, test-day policies.",
+          "type": "external",
+          "url": "https://www.psiexams.com/txfire",
+          "required": true,
+          "cost": "free",
+          "lastVerified": "2026-09-22"
+        },
+        {
+          "id": "tdi-insurance",
+          "title": "TDI \u2013 Certificate of liability insurance requirements",
+          "purpose": "Company registration insurance rules (also a TFM11 topic).",
+          "type": "external",
+          "url": "https://www.tdi.texas.gov/fire/certificate-liability-insurance.html",
+          "required": false,
+          "cost": "free",
+          "lastVerified": "2026-09-22"
+        },
+        {
+          "id": "tdi-fingerprints",
+          "title": "TDI \u2013 Fingerprint requirements and instructions for SFMO licenses",
+          "purpose": "How to get the service code and IdentoGO appointment.",
+          "type": "external",
+          "url": "https://www.tdi.texas.gov/fire/fingerprint-instructions-sfmo.html",
+          "required": true,
+          "cost": "free",
+          "lastVerified": "2026-09-22"
+        },
+        {
+          "id": "tdi-alarm-licensing",
+          "title": "TDI \u2013 Fire alarm licensing (Sircon, forms)",
+          "purpose": "Apply and renew online; forms SF031, SF032, SF033, SF035.",
+          "type": "external",
+          "url": "https://www.tdi.texas.gov/fire/fmlialarm.html",
+          "required": false,
+          "cost": "free",
+          "lastVerified": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": "alt",
+      "title": "Optional study paths & practice",
+      "items": [
+        {
+          "id": "nicet-fa",
+          "title": "NICET \u2013 Fire Alarm Systems certification",
+          "purpose": "Level II exam requirements can replace TFM12; Level III leads to APS.",
+          "type": "external",
+          "url": "https://www.nicet.org/certification-programs/electrical-and-mechanical-systems/fire-alarm-systems/",
+          "required": false,
+          "cost": "paid",
+          "lastVerified": "2026-09-22"
+        },
+        {
+          "id": "esa-cfat",
+          "title": "ESA \u2013 Certified Fire Alarm Technician (Level II)",
+          "purpose": "Current ESA Level II certification can replace TFM12.",
+          "type": "external",
+          "url": "https://esaweb.org/training/certifications/cfat/",
+          "required": false,
+          "cost": "paid",
+          "lastVerified": "2026-09-22"
+        },
+        {
+          "id": "rocketcert",
+          "title": "RocketCert \u2013 Texas Fire Alarm license exam prep",
+          "purpose": "Third-party prep course.",
+          "type": "external",
+          "url": "https://rocketcert.com/construction/texas/fire-alarm-license",
+          "required": false,
+          "cost": "paid",
+          "lastVerified": "2026-09-22"
+        },
+        {
+          "id": "firecert-sample",
+          "title": "Fire Cert Academy \u2013 free Texas FAL sample test",
+          "purpose": "Free baseline practice test.",
+          "type": "external",
+          "url": "https://firecertacademy.com/sample-test/tx-fal",
+          "required": false,
+          "cost": "free",
+          "lastVerified": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "title": "Company guides",
+      "items": [
+        {
+          "id": "startup-guide",
+          "title": "Fire Alarm Company Startup Guide \u2013 Houston / Harris County",
+          "purpose": "Company setup, licensing, Houston permitting, monitoring, compliance checklist.",
+          "type": "bundled",
+          "file": "assets/docs/Fire_Alarm_Business_Startup_Guide_Houston.pdf",
+          "required": false,
+          "cost": "free",
+          "lastVerified": "2026-09-22"
+        }
+      ]
+    }
+  ]
+}

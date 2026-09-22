@@ -1,0 +1,866 @@
+{
+  "bank": "TFM11 seed bank \u2013 facts verified against TDI pages (Sept 2026)",
+  "contentVersion": "2026.09.22",
+  "questions": [
+    {
+      "id": "tfm11-001",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.overview"
+      ],
+      "difficulty": 1,
+      "stem": "What minimum score is required to pass an SFMO fire alarm exam?",
+      "options": [
+        {
+          "id": "a",
+          "text": "60%"
+        },
+        {
+          "id": "b",
+          "text": "70%"
+        },
+        {
+          "id": "c",
+          "text": "75%"
+        },
+        {
+          "id": "d",
+          "text": "80%"
+        }
+      ],
+      "answer": "b",
+      "explanation": "SFMO tests require a passing score of 70% or better.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Test scores"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-002",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.overview"
+      ],
+      "difficulty": 1,
+      "stem": "How many questions are on each SFMO fire alarm test?",
+      "options": [
+        {
+          "id": "a",
+          "text": "25"
+        },
+        {
+          "id": "b",
+          "text": "50"
+        },
+        {
+          "id": "c",
+          "text": "75"
+        },
+        {
+          "id": "d",
+          "text": "100"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Tests have 50 true/false or multiple-choice questions.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Test description"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-003",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.overview"
+      ],
+      "difficulty": 1,
+      "stem": "How often may a candidate schedule the same SFMO test?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Once a day, no annual limit"
+        },
+        {
+          "id": "b",
+          "text": "Once a week, no more than three times every 12 months"
+        },
+        {
+          "id": "c",
+          "text": "Once a month, no more than six times a year"
+        },
+        {
+          "id": "d",
+          "text": "Twice a week, no annual limit"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Each type of test may be scheduled only once a week and no more than three times every 12 months.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Test restrictions"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-004",
+      "exam": "TFM11",
+      "type": "true_false",
+      "topicTags": [
+        "tfm11.overview"
+      ],
+      "difficulty": 1,
+      "stem": "SFMO fire alarm exams are open book.",
+      "options": [
+        {
+          "id": "t",
+          "text": "True"
+        },
+        {
+          "id": "f",
+          "text": "False"
+        }
+      ],
+      "answer": "f",
+      "explanation": "All SFMO tests are closed book.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Test description"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-005",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.licensing"
+      ],
+      "difficulty": 1,
+      "stem": "In Texas, fire alarm licenses are issued to ____ and registrations are issued to ____.",
+      "options": [
+        {
+          "id": "a",
+          "text": "companies; individuals"
+        },
+        {
+          "id": "b",
+          "text": "individuals; companies"
+        },
+        {
+          "id": "c",
+          "text": "technicians; monitoring stations"
+        },
+        {
+          "id": "d",
+          "text": "planners; installers"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Licenses are issued to individuals; registrations are issued to companies.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Instructions"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-006",
+      "exam": "TFM11",
+      "type": "true_false",
+      "topicTags": [
+        "tfm11.licensing"
+      ],
+      "difficulty": 1,
+      "stem": "SFMO can register a fire alarm company that has no licensed employee, as long as it carries liability insurance.",
+      "options": [
+        {
+          "id": "t",
+          "text": "True"
+        },
+        {
+          "id": "f",
+          "text": "False"
+        }
+      ],
+      "answer": "f",
+      "explanation": "SFMO cannot register a company without a licensed employee.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Company registrations"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-007",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.licensing"
+      ],
+      "difficulty": 2,
+      "stem": "Which license alone is NOT enough to qualify a company for an Alarm Certificate of Registration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fire Alarm Technician (FAL)"
+        },
+        {
+          "id": "b",
+          "text": "Fire Alarm Planning Superintendent (APS)"
+        },
+        {
+          "id": "c",
+          "text": "Residential Fire Alarm Superintendent (RAS)"
+        },
+        {
+          "id": "d",
+          "text": "Residential Fire Alarm Technician (RAL)"
+        }
+      ],
+      "answer": "d",
+      "explanation": "The designated employee must hold an FAL, APS, or RAS; an RAL alone is not enough.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Company registrations"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-008",
+      "exam": "TFM11",
+      "type": "true_false",
+      "topicTags": [
+        "tfm11.licensing"
+      ],
+      "difficulty": 1,
+      "stem": "An individual fire alarm license can be issued before the person is employed by a registered company.",
+      "options": [
+        {
+          "id": "t",
+          "text": "True"
+        },
+        {
+          "id": "f",
+          "text": "False"
+        }
+      ],
+      "answer": "f",
+      "explanation": "SFMO can't issue an individual license until the person is employed by a registered company.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Individual licenses"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-009",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.scope"
+      ],
+      "difficulty": 1,
+      "stem": "Which activity is a Fire Alarm Technician (FAL) NOT permitted to perform?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Install"
+        },
+        {
+          "id": "b",
+          "text": "Certify"
+        },
+        {
+          "id": "c",
+          "text": "Monitor"
+        },
+        {
+          "id": "d",
+          "text": "Plan"
+        }
+      ],
+      "answer": "d",
+      "explanation": "An FAL may sell, install, certify, service, and monitor all types of systems but may not do any planning.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Fire Alarm Technician"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-010",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.scope"
+      ],
+      "difficulty": 1,
+      "stem": "Which license permits planning of commercial fire alarm systems?",
+      "options": [
+        {
+          "id": "a",
+          "text": "FAL"
+        },
+        {
+          "id": "b",
+          "text": "APS"
+        },
+        {
+          "id": "c",
+          "text": "RAS"
+        },
+        {
+          "id": "d",
+          "text": "AMT"
+        }
+      ],
+      "answer": "b",
+      "explanation": "The Fire Alarm Planning Superintendent (APS) may plan, install, certify, service, and monitor all systems.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Fire Alarm Planning Superintendent"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-011",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.scope"
+      ],
+      "difficulty": 1,
+      "stem": "A Fire Alarm Monitoring Technician (AMT) is permitted to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Install and monitor"
+        },
+        {
+          "id": "b",
+          "text": "Only monitor residential or commercial systems"
+        },
+        {
+          "id": "c",
+          "text": "Plan residential systems"
+        },
+        {
+          "id": "d",
+          "text": "Service and monitor"
+        }
+      ],
+      "answer": "b",
+      "explanation": "An AMT is only permitted to monitor residential or commercial fire alarm or detection systems.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Fire Alarm Monitoring Technician"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-012",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.scope"
+      ],
+      "difficulty": 2,
+      "stem": "A Residential Fire Alarm Superintendent (RAS) may plan systems in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "All occupancies"
+        },
+        {
+          "id": "b",
+          "text": "One- and two-family dwellings"
+        },
+        {
+          "id": "c",
+          "text": "Apartment buildings of any size"
+        },
+        {
+          "id": "d",
+          "text": "Commercial buildings under 5,000 sq ft"
+        }
+      ],
+      "answer": "b",
+      "explanation": "An RAS may plan systems in one- and two-family dwellings and can also perform all the functions of an FAL.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Residential Fire Alarm Superintendent"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-013",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.scope"
+      ],
+      "difficulty": 2,
+      "stem": "In the SFMO license table, \u201ccertify\u201d means the licensee:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Issues a UL central station certificate"
+        },
+        {
+          "id": "b",
+          "text": "Certifies the system meets Chapter 6002 requirements"
+        },
+        {
+          "id": "c",
+          "text": "Certifies the monitoring station is listed"
+        },
+        {
+          "id": "d",
+          "text": "Signs the building's certificate of occupancy"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Certify means certifying the system meets Chapter 6002; it does not mean issuing a certificate or placard for central-station requirements.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Test table, note 1"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-014",
+      "exam": "TFM11",
+      "type": "true_false",
+      "topicTags": [
+        "tfm11.scope"
+      ],
+      "difficulty": 1,
+      "stem": "For SFMO licensing purposes, \u201cservice\u201d includes inspecting, maintaining, repairing, and testing.",
+      "options": [
+        {
+          "id": "t",
+          "text": "True"
+        },
+        {
+          "id": "f",
+          "text": "False"
+        }
+      ],
+      "answer": "t",
+      "explanation": "The license table defines service as including inspecting, maintaining, repairing, or testing.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Test table, note 3"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-015",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.insurance"
+      ],
+      "difficulty": 1,
+      "stem": "What minimum general liability coverage must a company show to register with SFMO?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$50,000 per occurrence / $100,000 aggregate"
+        },
+        {
+          "id": "b",
+          "text": "$100,000 per occurrence / $300,000 aggregate"
+        },
+        {
+          "id": "c",
+          "text": "$250,000 per occurrence / $500,000 aggregate"
+        },
+        {
+          "id": "d",
+          "text": "$1,000,000 per occurrence / $2,000,000 aggregate"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Companies must have at least $100,000 combined single limits per occurrence and $300,000 total for the policy year.",
+      "citation": {
+        "documentId": "tdi-insurance",
+        "section": "Requirements"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-016",
+      "exam": "TFM11",
+      "type": "true_false",
+      "topicTags": [
+        "tfm11.insurance"
+      ],
+      "difficulty": 1,
+      "stem": "For fire alarm company registration, the liability policy must include products and completed operations coverage.",
+      "options": [
+        {
+          "id": "t",
+          "text": "True"
+        },
+        {
+          "id": "f",
+          "text": "False"
+        }
+      ],
+      "answer": "t",
+      "explanation": "Products and completed operations coverage are required.",
+      "citation": {
+        "documentId": "tdi-insurance",
+        "section": "Limits of insurance"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-017",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.insurance"
+      ],
+      "difficulty": 1,
+      "stem": "Who must be listed as certificate holder on the certificate of liability insurance filed for registration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The building owner"
+        },
+        {
+          "id": "b",
+          "text": "The local fire marshal"
+        },
+        {
+          "id": "c",
+          "text": "The State Fire Marshal's Office"
+        },
+        {
+          "id": "d",
+          "text": "The insurance agent"
+        }
+      ],
+      "answer": "c",
+      "explanation": "The certificate holder must be listed as the State Fire Marshal's Office.",
+      "citation": {
+        "documentId": "tdi-insurance",
+        "section": "Certificate holder"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-018",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.fees"
+      ],
+      "difficulty": 2,
+      "stem": "What is the initial fee for a main-office Alarm Certificate of Registration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$150"
+        },
+        {
+          "id": "b",
+          "text": "$250"
+        },
+        {
+          "id": "c",
+          "text": "$500"
+        },
+        {
+          "id": "d",
+          "text": "$1,000"
+        }
+      ],
+      "answer": "c",
+      "explanation": "The main office initial fee is $500 (renewal $1,000 for two years).",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Fees"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-019",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.fees"
+      ],
+      "difficulty": 2,
+      "stem": "What is the initial fee for a Fire Alarm Technician (FAL) license?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$50"
+        },
+        {
+          "id": "b",
+          "text": "$120"
+        },
+        {
+          "id": "c",
+          "text": "$200"
+        },
+        {
+          "id": "d",
+          "text": "$500"
+        }
+      ],
+      "answer": "b",
+      "explanation": "The FAL initial fee is $120; the two-year renewal is $200.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Fees"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-020",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.fees"
+      ],
+      "difficulty": 2,
+      "stem": "What is the initial fee for each Alarm Branch Office Certificate of Registration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$100"
+        },
+        {
+          "id": "b",
+          "text": "$150"
+        },
+        {
+          "id": "c",
+          "text": "$250"
+        },
+        {
+          "id": "d",
+          "text": "$300"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Each branch office is $150 initially and $300 to renew for two years.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Fees"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-021",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.fees"
+      ],
+      "difficulty": 2,
+      "stem": "How far ahead of expiration does SFMO send a renewal notice?",
+      "options": [
+        {
+          "id": "a",
+          "text": "30 days"
+        },
+        {
+          "id": "b",
+          "text": "60 days"
+        },
+        {
+          "id": "c",
+          "text": "90 days"
+        },
+        {
+          "id": "d",
+          "text": "120 days"
+        }
+      ],
+      "answer": "c",
+      "explanation": "SFMO sends a renewal notice 90 days before the license expires.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Instructions"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-022",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.applications"
+      ],
+      "difficulty": 1,
+      "stem": "SFMO license fingerprints are checked against records of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "The county sheriff only"
+        },
+        {
+          "id": "b",
+          "text": "Texas DPS and the FBI"
+        },
+        {
+          "id": "c",
+          "text": "The FBI only"
+        },
+        {
+          "id": "d",
+          "text": "The Texas Department of Licensing and Regulation"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Fingerprints are used to check criminal history records of Texas DPS and the FBI.",
+      "citation": {
+        "documentId": "tdi-fingerprints",
+        "section": "Overview"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-023",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.monitoring"
+      ],
+      "difficulty": 2,
+      "stem": "An applicant for a certificate of registration that engages in monitoring must provide evidence that its central station is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Located in Texas"
+        },
+        {
+          "id": "b",
+          "text": "Listed or certified by an approved testing laboratory"
+        },
+        {
+          "id": "c",
+          "text": "Staffed by APS licensees only"
+        },
+        {
+          "id": "d",
+          "text": "Approved by the local fire chief"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Monitoring applicants must provide evidence of listing or certification as a central station by an approved testing laboratory and a statement of NFPA 72 compliance.",
+      "citation": {
+        "documentId": "tac-34-600",
+        "section": "\u00a734.613(a)(7)"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-024",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.standards"
+      ],
+      "difficulty": 2,
+      "stem": "Which edition of NFPA 72 did SFMO adopt effective September 1, 2023?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2013"
+        },
+        {
+          "id": "b",
+          "text": "2016"
+        },
+        {
+          "id": "c",
+          "text": "2019"
+        },
+        {
+          "id": "d",
+          "text": "2022"
+        }
+      ],
+      "answer": "c",
+      "explanation": "Commissioner's Order 2023-7848 adopted NFPA 72-2019 (and NFPA 70-2020) in \u00a734.607.",
+      "citation": {
+        "documentId": "tdi-adoption-order",
+        "section": "\u00a734.607"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    },
+    {
+      "id": "tfm11-025",
+      "exam": "TFM11",
+      "type": "multiple_choice",
+      "topicTags": [
+        "tfm11.fees"
+      ],
+      "difficulty": 2,
+      "stem": "What is the fee to revise or transfer a fire alarm license (e.g., change employer)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$10"
+        },
+        {
+          "id": "b",
+          "text": "$20"
+        },
+        {
+          "id": "c",
+          "text": "$50"
+        },
+        {
+          "id": "d",
+          "text": "$120"
+        }
+      ],
+      "answer": "b",
+      "explanation": "The Application to Revise or Transfer (SF033) is submitted with a $20 fee.",
+      "citation": {
+        "documentId": "tdi-test-info",
+        "section": "Fees"
+      },
+      "needsReview": false,
+      "sourceVerified": true
+    }
+  ]
+}

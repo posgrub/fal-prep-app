@@ -1,0 +1,138 @@
+{
+  "contentVersion": "2026.09.22",
+  "region": "Houston / Harris County, Texas",
+  "lastVerified": "2026-09-22",
+  "sections": [
+    {
+      "id": "exams",
+      "title": "Take the exams (PSI)",
+      "items": [
+        {
+          "label": "Schedule online",
+          "type": "url",
+          "value": "https://www.psiexams.com/txfire"
+        },
+        {
+          "label": "Schedule by phone",
+          "type": "phone",
+          "value": "800-733-9267"
+        },
+        {
+          "label": "Schedule by email",
+          "type": "email",
+          "value": "examschedule@psionline.com"
+        },
+        {
+          "label": "Test center",
+          "type": "note",
+          "value": "Choose a Houston-area PSI test center from the location list when scheduling; confirm the address in your confirmation email."
+        },
+        {
+          "label": "Rules",
+          "type": "note",
+          "value": "50 questions, closed book, 70% to pass. Each test only once a week and max 3 times per 12 months. Name must match government photo ID."
+        }
+      ]
+    },
+    {
+      "id": "fingerprints",
+      "title": "Fingerprints (IdentoGO)",
+      "items": [
+        {
+          "label": "Step 1",
+          "type": "note",
+          "value": "Submit SFMO's formal intent request to get the SFMO fingerprint service code."
+        },
+        {
+          "label": "SFMO fingerprint instructions",
+          "type": "url",
+          "value": "https://www.tdi.texas.gov/fire/fingerprint-instructions-sfmo.html"
+        },
+        {
+          "label": "IdentoGO scheduling",
+          "type": "phone",
+          "value": "888-467-2080"
+        },
+        {
+          "label": "Payment",
+          "type": "note",
+          "value": "Credit card, business check, or money order. No cash or personal checks. Attach a copy of the receipt to your license application."
+        }
+      ]
+    },
+    {
+      "id": "sfmo",
+      "title": "State Fire Marshal licensing",
+      "items": [
+        {
+          "label": "Licensing questions",
+          "type": "phone",
+          "value": "512-676-6800",
+          "note": "Option 1"
+        },
+        {
+          "label": "Licensing email",
+          "type": "email",
+          "value": "FMLicensing@tdi.texas.gov"
+        },
+        {
+          "label": "Rules / investigations",
+          "type": "phone",
+          "value": "512-676-6802"
+        },
+        {
+          "label": "Mailing address",
+          "type": "address",
+          "value": "State Fire Marshal's Office, PO Box 12107, Austin, TX 78711-2107"
+        }
+      ]
+    },
+    {
+      "id": "houston",
+      "title": "Working inside Houston city limits",
+      "items": [
+        {
+          "label": "Houston Permitting Center",
+          "type": "address",
+          "value": "1002 Washington Ave., Houston, TX"
+        },
+        {
+          "label": "Houston Fire Marshal's Office (main)",
+          "type": "phone",
+          "value": "832-394-6900"
+        },
+        {
+          "label": "Fire Marshal's Office \u2013 plan review",
+          "type": "url",
+          "value": "https://www.houstonpermittingcenter.org/fire-marshal-office"
+        },
+        {
+          "label": "Fire Permits Office",
+          "type": "url",
+          "value": "https://www.houstonpermittingcenter.org/fire-permits-office"
+        },
+        {
+          "label": "HFD forms and permits",
+          "type": "url",
+          "value": "https://houstontx.gov/fire/formsandpermits/index.html"
+        },
+        {
+          "label": "Contractor registration",
+          "type": "note",
+          "value": "Fire alarm contractors must be registered with TDI-SFMO and with the City of Houston; permit applications are filed through iPermits."
+        }
+      ]
+    },
+    {
+      "id": "harris-county",
+      "title": "Outside Houston city limits",
+      "items": [
+        {
+          "label": "Know your AHJ",
+          "type": "note",
+          "value": "Unincorporated Harris County is handled by the Harris County Fire Marshal's Office. Cities such as Pasadena, Baytown, Pearland, Sugar Land, and Katy each have their own fire marshal permits and plan review. Confirm the AHJ before every job."
+        }
+      ]
+    }
+  ]
+}

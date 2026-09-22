@@ -1,0 +1,129 @@
+{
+ "id": "tdi-alarm-licensing",
+ "title": "Fire alarm licensing (SFMO overview)",
+ "sourceUrl": "https://www.tdi.texas.gov/fire/fmlialarm.html",
+ "retrievedOn": "2026-09-22",
+ "license": "Public Texas government text (TDI / State Fire Marshal). Verify against the live page before relying on fees or dates.",
+ "sections": [
+  {
+   "id": "tdi-alarm-licensing:01-renew-registration-or-license-online",
+   "heading": "Renew registration or license online",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Use the Sircon website."
+    }
+   ]
+  },
+  {
+   "id": "tdi-alarm-licensing:02-alarm-licensing-forms",
+   "heading": "Alarm licensing forms",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Alarm applications, forms, and guides"
+    }
+   ]
+  },
+  {
+   "id": "tdi-alarm-licensing:03-fingerprint-requirements",
+   "heading": "Fingerprint Requirements",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Fingerprint requirements and instructions for SFMO licenses"
+    }
+   ]
+  },
+  {
+   "id": "tdi-alarm-licensing:04-insurance-requirements",
+   "heading": "Insurance Requirements",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Certificate of Liability Insurance Requirements"
+    }
+   ]
+  },
+  {
+   "id": "tdi-alarm-licensing:05-online-applications-are-now-available-for-fire-alarm-license",
+   "heading": "Online applications are now available for fire alarm licenses",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "We are now taking electronic applications for some fire alarm licenses through Sircon:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Fire alarm technician (FAL)",
+      "Residential fire alarm technician (RAL)",
+      "Residential fire alarm superintendent (RAS)",
+      "Fire alarm planning superintendent (APS)",
+      "Fire alarm monitoring technician (AMT)",
+      "Residential fire alarm superintendent-single station (RAS-SS)",
+      "FM-Fire alarm instructor (FAI)"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "On Sircon, select “new insurance license.” For most licenses, an Applicant’s Employer Information form must be submitted with a license application."
+    }
+   ]
+  },
+  {
+   "id": "tdi-alarm-licensing:06-licensing-information",
+   "heading": "Licensing information",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Fire Alarm registration, license, and test information: Describes the different types of registrations and licenses, type of work permitted by each license, test requirements, and test references."
+    },
+    {
+     "type": "p",
+     "text": "Guide to Obtaining a Registration or License Online: How to apply or renew for a registration or license using Sircon."
+    },
+    {
+     "type": "p",
+     "text": "Test Information: This link takes you to the PSI web site. This company is contracted to administer the SFMO tests. Click on the Candidate Information Bulletin found on the testing page for additional information regarding fees, scheduling policies, scoring information, and FAQs."
+    }
+   ]
+  },
+  {
+   "id": "tdi-alarm-licensing:07-statute-and-rules",
+   "heading": "Statute and Rules",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Texas Insurance Code Chapter 6002"
+    },
+    {
+     "type": "p",
+     "text": "Texas Administrative Code Chapter 34.600"
+    }
+   ]
+  },
+  {
+   "id": "tdi-alarm-licensing:08-licensing-questions",
+   "heading": "Licensing questions?",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Phone: 512-676-6800 (press 1) from 8 a.m. to 5 p.m. weekdays. Email: FMLicensing@tdi.texas.gov"
+    },
+    {
+     "type": "p",
+     "text": "Last updated: 3/27/2026"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1353 @@
+{
+ "id": "tic-6002",
+ "title": "Texas Insurance Code Chapter 6002 – Fire Detection and Alarm Device Installation",
+ "sourceUrl": "https://statutes.capitol.texas.gov/Docs/IN/htm/IN.6002.htm",
+ "retrievedOn": "2026-09-22",
+ "license": "Public Texas statute text (Texas Legislature Online). Current through the 89th Legislature, 2nd Called Session (2025) as of the retrieval date.",
+ "sections": [
+  {
+   "id": "tic-6002:6002.001",
+   "heading": "Sec. 6002.001. Purpose",
+   "level": 3,
+   "subchapter": "SUBCHAPTER A. GENERAL PROVISIONS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The purpose of this chapter is to safeguard lives and property by:"
+    },
+    {
+     "type": "p",
+     "text": "(1) regulating the planning, certifying, leasing, selling, servicing, installing, monitoring, and maintaining of fire detection and fire alarm devices and systems; and"
+    },
+    {
+     "type": "p",
+     "text": "(2) except as provided by rules adopted under Section 6002.051 or 6002.052, prohibiting fire detection and fire alarm devices, equipment, and systems not labeled or listed by a nationally recognized testing laboratory."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.002",
+   "heading": "Sec. 6002.002. Definitions",
+   "level": 3,
+   "subchapter": "SUBCHAPTER A. GENERAL PROVISIONS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Except as otherwise provided by this chapter, in this chapter:"
+    },
+    {
+     "type": "p",
+     "text": "(1) \"Fire alarm device\" means any device capable, through audible or visible means, of warning that fire or combustion has occurred or is occurring."
+    },
+    {
+     "type": "p",
+     "text": "(2) \"Fire alarm planning superintendent\" means a licensed individual designated by a registered firm to:"
+    },
+    {
+     "type": "p",
+     "text": "(A) plan a fire alarm or detection system that conforms to applicable adopted National Fire Protection Association standards or other adopted standards; and"
+    },
+    {
+     "type": "p",
+     "text": "(B) certify that each fire alarm or detection system as planned meets the standards as provided by law."
+    },
+    {
+     "type": "p",
+     "text": "(3) \"Fire alarm technician\" means a licensed individual designated by a registered firm to:"
+    },
+    {
+     "type": "p",
+     "text": "(A) inspect and certify that each fire alarm or detection system as installed meets the standards provided by law; or"
+    },
+    {
+     "type": "p",
+     "text": "(B) perform or directly supervise the servicing or maintaining of a previously installed fire alarm device or system and certify that service or maintenance."
+    },
+    {
+     "type": "p",
+     "text": "(4) \"Fire detection device\" means any arrangement of materials, the sole function of which is to indicate the existence of fire, smoke, or combustion in its incipient stages."
+    },
+    {
+     "type": "p",
+     "text": "(5) \"Individual\" means a natural person, including an owner, manager, officer, employee, occupant, or other individual."
+    },
+    {
+     "type": "p",
+     "text": "(6) \"Installation\" means:"
+    },
+    {
+     "type": "p",
+     "text": "(A) the initial placement of equipment; or"
+    },
+    {
+     "type": "p",
+     "text": "(B) the extension, modification, or alteration of equipment already in place."
+    },
+    {
+     "type": "p",
+     "text": "(7) \"Insurance agent\" means:"
+    },
+    {
+     "type": "p",
+     "text": "(A) an individual, firm, or corporation licensed under:"
+    },
+    {
+     "type": "p",
+     "text": "(i) Subchapter E, Chapter 981; or"
+    },
+    {
+     "type": "p",
+     "text": "(ii) Subchapter A, B, C, D, E, or G, Chapter 4051; or"
+    },
+    {
+     "type": "p",
+     "text": "(B) an individual authorized to represent an insurance fund or pool created by a municipality, county, or other political subdivision of this state under Chapter 791, Government Code."
+    },
+    {
+     "type": "p",
+     "text": "(8) \"Maintenance\" means the maintenance of a fire alarm device or a fire detection device in a condition of repair that provides performance as originally designed or intended."
+    },
+    {
+     "type": "p",
+     "text": "(9) \"Monitoring\" means the receipt of fire alarm and supervisory signals or communication of those signals to a fire service communications center in this state or serving property in this state."
+    },
+    {
+     "type": "p",
+     "text": "(10) \"Organization\" means a corporation, a government or a governmental subdivision or agency, a business trust, an estate, a trust, a partnership, a firm or association, two or more individuals with a joint or common interest, or any other legal or commercial entity."
+    },
+    {
+     "type": "p",
+     "text": "(11) \"Registered firm\" means an individual or organization that holds a registration certificate."
+    },
+    {
+     "type": "p",
+     "text": "(12) \"Residential fire alarm superintendent\" means a licensed individual designated by a registered firm to:"
+    },
+    {
+     "type": "p",
+     "text": "(A) plan a residential single-family or two-family fire alarm or detection system that conforms to applicable adopted National Fire Protection Association standards or other adopted standards; and"
+    },
+    {
+     "type": "p",
+     "text": "(B) certify that each fire alarm or detection system as planned meets the standards as provided by law."
+    },
+    {
+     "type": "p",
+     "text": "(12-a) \"Residential fire alarm technician\" means a licensed individual who is designated by a registered firm to install, service, inspect, and certify residential single-family or two-family fire alarm or detection systems."
+    },
+    {
+     "type": "p",
+     "text": "(13) \"Sale\" means the sale or offer for sale, lease, or rent of any merchandise, equipment, or service at wholesale or retail, to the public or any individual, for an agreed sum of money or other consideration."
+    },
+    {
+     "type": "p",
+     "text": "(14) \"Service\" or \"servicing\" means inspection, maintenance, repair, or testing of a fire alarm device or a fire detection device."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009. Amended by: Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(a), eff. September 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.003",
+   "heading": "Sec. 6002.003. Effect On Local Regulation",
+   "level": 3,
+   "subchapter": "SUBCHAPTER A. GENERAL PROVISIONS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) This chapter and the rules adopted under this chapter have uniform force and effect throughout this state. A municipality or county may not enact an ordinance or rule inconsistent with this chapter or rules adopted under this chapter. An inconsistent ordinance or rule is void and has no effect."
+    },
+    {
+     "type": "p",
+     "text": "(b) Notwithstanding Subsection (a), a municipality or county may:"
+    },
+    {
+     "type": "p",
+     "text": "(1) mandate that a fire alarm or detection system be installed in certain facilities, if the installation conforms to applicable state law;"
+    },
+    {
+     "type": "p",
+     "text": "(2) require a better type of alarm or detection system or otherwise safer condition than the minimum required by state law; and"
+    },
+    {
+     "type": "p",
+     "text": "(3) require regular inspections by local officials of smoke detectors in dwelling units, as that term is defined by Section 92.251, Property Code, and require the smoke detectors to be operational at the time of inspection."
+    },
+    {
+     "type": "p",
+     "text": "(c) A municipality, county, or other political subdivision of this state may not require, as a condition of engaging in business or performing any activity authorized under this chapter, that a registered firm, a license holder, or an employee of a license holder:"
+    },
+    {
+     "type": "p",
+     "text": "(1) obtain a registration, franchise, or license from the political subdivision;"
+    },
+    {
+     "type": "p",
+     "text": "(2) pay any fee or franchise tax to the political subdivision; or"
+    },
+    {
+     "type": "p",
+     "text": "(3) post a bond."
+    },
+    {
+     "type": "p",
+     "text": "(d) Notwithstanding any other provision of this section or Section 6002.155, a municipality or county may require a registered firm to obtain a permit and pay a permit fee for the installation of a fire alarm or fire detection device or system and require that the installation of such a system be in conformance with the building code or other construction requirements of the municipality or county and state law."
+    },
+    {
+     "type": "p",
+     "text": "(e) Notwithstanding Subsection (d), a municipality or county may not impose qualification or financial responsibility requirements other than proof of a registration certificate."
+    },
+    {
+     "type": "p",
+     "text": "(f) A political subdivision may not require a registered firm, a license holder, or an employee of a registered firm to maintain a business location or residency within that political subdivision to engage in a business or perform any activity authorized under this chapter."
+    },
+    {
+     "type": "p",
+     "text": "(g) A municipality or county may by ordinance require a registered firm to make a telephone call to a monitored property before the firm notifies the municipality or county of an alarm signal received by the firm from a fire detection device."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009. Amended by: Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(b), eff. September 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.004",
+   "heading": "Sec. 6002.004. Provision Of Certain Services By Political Subdivision",
+   "level": 3,
+   "subchapter": "SUBCHAPTER A. GENERAL PROVISIONS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) In this section, \"monitoring\" means the receipt of fire alarm or supervisory signals or retransmission or communication of those signals to a fire service communications center that is located in this state or serves property in this state."
+    },
+    {
+     "type": "p",
+     "text": "(b) Except as provided by Subsection (c), a political subdivision may not offer alarm system sales, service, installation, or monitoring unless the political subdivision has been providing monitoring services within the boundaries of the political subdivision as of September 1, 1999. Any fee charged by the political subdivision under this subsection may not exceed the cost of the monitoring."
+    },
+    {
+     "type": "p",
+     "text": "(c) A political subdivision may:"
+    },
+    {
+     "type": "p",
+     "text": "(1) offer service, installation, or monitoring for property owned by the political subdivision or another political subdivision;"
+    },
+    {
+     "type": "p",
+     "text": "(2) allow for the response to an alarm or detection device by:"
+    },
+    {
+     "type": "p",
+     "text": "(A) a law enforcement agency or fire department; or"
+    },
+    {
+     "type": "p",
+     "text": "(B) a law enforcement officer or firefighter acting in an official capacity; or"
+    },
+    {
+     "type": "p",
+     "text": "(3) offer monitoring to a financial institution, as defined by Section 59.301, Finance Code, that requests, in writing, that the political subdivision provide monitoring service to the financial institution."
+    },
+    {
+     "type": "p",
+     "text": "(d) Subsection (b) does not apply to a political subdivision:"
+    },
+    {
+     "type": "p",
+     "text": "(1) in a county with a population of less than 80,000; or"
+    },
+    {
+     "type": "p",
+     "text": "(2) in which monitoring is not otherwise provided or available."
+    },
+    {
+     "type": "p",
+     "text": "(e) This section is not intended to require a political subdivision to hold a license under this chapter."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009. Amended by: Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(c), eff. September 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.051",
+   "heading": "Sec. 6002.051. Administration Of Chapter; Rules",
+   "level": 3,
+   "subchapter": "SUBCHAPTER B. POWERS AND DUTIES OF COMMISSIONER, DEPARTMENT,",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) The department shall administer this chapter."
+    },
+    {
+     "type": "p",
+     "text": "(b) The commissioner may adopt rules as necessary to administer this chapter, including rules the commissioner considers necessary to administer this chapter through the state fire marshal."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.052",
+   "heading": "Sec. 6002.052. Adoption Of Rules; Standards",
+   "level": 3,
+   "subchapter": "SUBCHAPTER B. POWERS AND DUTIES OF COMMISSIONER, DEPARTMENT,",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) In adopting necessary rules, the commissioner may use:"
+    },
+    {
+     "type": "p",
+     "text": "(1) recognized standards, such as, but not limited to:"
+    },
+    {
+     "type": "p",
+     "text": "(A) standards of the National Fire Protection Association;"
+    },
+    {
+     "type": "p",
+     "text": "(B) standards recognized by federal law or regulation; or"
+    },
+    {
+     "type": "p",
+     "text": "(C) standards published by a nationally recognized standards-making organization;"
+    },
+    {
+     "type": "p",
+     "text": "(2) the National Electrical Code; or"
+    },
+    {
+     "type": "p",
+     "text": "(3) information provided by individual manufacturers."
+    },
+    {
+     "type": "p",
+     "text": "(b) Under rules adopted under Section 6002.051, the department may create specialized licenses or registration certificates for an organization or individual engaged in the business of planning, certifying, leasing, selling, servicing, installing, monitoring, or maintaining fire alarm or fire detection devices or systems. The rules must establish appropriate training and qualification standards for each kind of license and certificate."
+    },
+    {
+     "type": "p",
+     "text": "(c) The commissioner shall also adopt standards applicable to fire alarm devices, equipment, or systems regulated under this chapter. In adopting standards under this subsection, the commissioner may allow the operation of a fire alarm monitoring station that relies on fire alarm devices or equipment approved or listed by a nationally recognized testing laboratory without regard to whether the monitoring station is approved or listed by a nationally recognized testing laboratory if the operator of the station demonstrates that the station operating standards are substantially equivalent to those required to be approved or listed."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.053",
+   "heading": "Sec. 6002.053. Rules Restricting Advertising Or Competitive Bidding",
+   "level": 3,
+   "subchapter": "SUBCHAPTER B. POWERS AND DUTIES OF COMMISSIONER, DEPARTMENT,",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) The commissioner may not adopt rules restricting advertising or competitive bidding by the holder of a license or registration certificate issued under this chapter except to prohibit false, misleading, or deceptive practices."
+    },
+    {
+     "type": "p",
+     "text": "(b) In the commissioner's rules to prohibit false, misleading, or deceptive practices, the commissioner may not include a rule that:"
+    },
+    {
+     "type": "p",
+     "text": "(1) restricts the use of any medium for advertising;"
+    },
+    {
+     "type": "p",
+     "text": "(2) restricts the use of a license or registration certificate holder's personal appearance or voice in an advertisement;"
+    },
+    {
+     "type": "p",
+     "text": "(3) relates to the size or duration of an advertisement by the license or registration certificate holder; or"
+    },
+    {
+     "type": "p",
+     "text": "(4) restricts the license or registration certificate holder's advertisement under a trade name."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.0531",
+   "heading": "Sec. 6002.0531. Rules Requiring Financial Responsibility",
+   "level": 3,
+   "subchapter": "SUBCHAPTER B. POWERS AND DUTIES OF COMMISSIONER, DEPARTMENT,",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The commissioner may not adopt a rule to administer this chapter that requires a person who holds a license under this chapter to obtain additional certification that imposes a financial responsibility on the license holder."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(i), eff. September 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.054",
+   "heading": "Sec. 6002.054. Fees",
+   "level": 3,
+   "subchapter": "SUBCHAPTER B. POWERS AND DUTIES OF COMMISSIONER, DEPARTMENT,",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) The commissioner shall set the fee for:"
+    },
+    {
+     "type": "p",
+     "text": "(1) an initial registration certificate in an amount not to exceed $500;"
+    },
+    {
+     "type": "p",
+     "text": "(2) the renewal of a registration certificate for each year in an amount not to exceed $500;"
+    },
+    {
+     "type": "p",
+     "text": "(3) the renewal of a registration certificate for an individual or organization engaged in the business of planning, certifying, leasing, selling, servicing, installing, monitoring, or maintaining exclusively single station devices in an amount not to exceed $250 annually;"
+    },
+    {
+     "type": "p",
+     "text": "(4) an initial branch office registration certificate in an amount not to exceed $150;"
+    },
+    {
+     "type": "p",
+     "text": "(5) the renewal of a branch office registration certificate for each year in an amount not to exceed $150;"
+    },
+    {
+     "type": "p",
+     "text": "(6) an initial or renewal training school approval in an amount not to exceed $500 annually;"
+    },
+    {
+     "type": "p",
+     "text": "(7) an initial or renewal of a training school instructor approval in an amount not to exceed $50 annually;"
+    },
+    {
+     "type": "p",
+     "text": "(8) an initial license in an amount not to exceed $120, except as provided by Subdivision (10);"
+    },
+    {
+     "type": "p",
+     "text": "(9) the renewal of a license for each year in an amount not to exceed $100, except as provided by Subdivision (10); and"
+    },
+    {
+     "type": "p",
+     "text": "(10) an initial license fee, in an amount not to exceed $50, and an annual renewal fee, in an amount not to exceed $50, for a residential fire alarm technician license."
+    },
+    {
+     "type": "p",
+     "text": "(b) Unless the examination or reexamination for a license is administered by a testing service, the commissioner shall set a nonrefundable fee for:"
+    },
+    {
+     "type": "p",
+     "text": "(1) the initial examination in an amount not to exceed $30; and"
+    },
+    {
+     "type": "p",
+     "text": "(2) each reexamination in an amount not to exceed $20."
+    },
+    {
+     "type": "p",
+     "text": "(c) The commissioner shall set a fee in an amount not to exceed $20 for:"
+    },
+    {
+     "type": "p",
+     "text": "(1) a duplicate registration certificate or license issued under this chapter; and"
+    },
+    {
+     "type": "p",
+     "text": "(2) any request requiring changes to a registration certificate or license."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009. Amended by: Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(d), eff. September 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.055",
+   "heading": "Sec. 6002.055. Deposit In Operating Account",
+   "level": 3,
+   "subchapter": "SUBCHAPTER B. POWERS AND DUTIES OF COMMISSIONER, DEPARTMENT,",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The fees collected under this chapter shall be deposited in the state treasury to the credit of the Texas Department of Insurance operating account."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.056",
+   "heading": "Sec. 6002.056. Department Records",
+   "level": 3,
+   "subchapter": "SUBCHAPTER B. POWERS AND DUTIES OF COMMISSIONER, DEPARTMENT,",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Records maintained by the department under this chapter on the home address, home telephone number, driver's license number, or social security number of an applicant or a license or registration holder are confidential and are not subject to mandatory disclosure under Chapter 552, Government Code."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(j), eff. September 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.151",
+   "heading": "Sec. 6002.151. Firm Registration Certificate Required; Limited Certificate",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) An individual or organization may not engage in the business of planning, certifying, leasing, selling, installing, servicing, monitoring, or maintaining fire alarm or fire detection devices or systems unless the individual or organization holds a registration certificate issued by the department."
+    },
+    {
+     "type": "p",
+     "text": "(b) The department may issue a limited registration certificate to an individual or organization whose business is restricted to monitoring."
+    },
+    {
+     "type": "p",
+     "text": "(c) Applications for registration certificates and qualifications for those certificates are subject to rules adopted by the commissioner."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.152",
+   "heading": "Sec. 6002.152. Branch Office Registration Certificate Required",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) Except as provided by Subsection (c), each separate office location of a registered firm, other than the location identified on the firm's registration certificate, must have a branch office registration certificate issued by the department."
+    },
+    {
+     "type": "p",
+     "text": "(b) Before issuing a branch office registration certificate, the department must determine that the branch office location is part of a registered firm."
+    },
+    {
+     "type": "p",
+     "text": "(c) A registered firm that is engaged in the business of planning, certifying, leasing, selling, servicing, installing, monitoring, or maintaining exclusively single station devices is not required to apply for or obtain a branch office registration certificate for a separate office or location of the firm."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.153",
+   "heading": "Sec. 6002.153. Required Insurance Coverage For Registration Certificate",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) The department may not issue a registration certificate under this chapter unless the applicant files with the department evidence of a general liability insurance policy that includes products and completed operations coverage. The policy must be conditioned to pay on behalf of the insured those amounts that the insured becomes legally obligated to pay as damages because of bodily injury and property damage caused by an occurrence involving the insured or the insured's officer, agent, or employee in the conduct of any business that requires a registration certificate or license under this chapter."
+    },
+    {
+     "type": "p",
+     "text": "(b) Unless the commissioner increases or decreases the limits under rules adopted under Section 6002.051(b), the limits of insurance coverage required by Subsection (a) must be at least:"
+    },
+    {
+     "type": "p",
+     "text": "(1) $100,000 combined single limits for bodily injury and property damage for each occurrence; and"
+    },
+    {
+     "type": "p",
+     "text": "(2) $300,000 aggregate for all occurrences for each policy year."
+    },
+    {
+     "type": "p",
+     "text": "(c) The evidence of insurance required by this section must be in the form of a certificate of insurance executed by an insurer authorized to engage in the business of insurance in this state and countersigned by an insurance agent licensed in this state. A certificate of insurance for surplus lines coverage procured in compliance with Chapter 981 through a surplus lines agent that is licensed under Subchapter E, Chapter 981, and resident in this state may be filed with the department as evidence of the coverage required by this section."
+    },
+    {
+     "type": "p",
+     "text": "(d) An insurance certificate executed and filed with the department under this section remains in force until the insurer has terminated future liability by the notice required by the department."
+    },
+    {
+     "type": "p",
+     "text": "(e) Failure to maintain the liability insurance required by this section constitutes grounds for the denial, suspension, or revocation, after notice and opportunity for hearing, of a registration certificate issued under this chapter."
+    },
+    {
+     "type": "p",
+     "text": "(f) For an individual or organization licensed to install or service burglar alarms under Chapter 1702, Occupations Code, compliance with the insurance requirements of that chapter constitutes compliance with the insurance requirements of this section if the insurance held by the individual or organization complies with the requirements of this section in amounts and types of coverage."
+    },
+    {
+     "type": "p",
+     "text": "(g) This section does not affect the rights of the insured to negotiate or contract for limitations of liability with a third party, including a customer of the insured."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.154",
+   "heading": "Sec. 6002.154. Fire Alarm Technician, Residential Fire Alarm Superintendent, And Fire Alarm Planning Superintendent",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) Each registered firm, including a firm engaged in the business of planning, certifying, leasing, selling, servicing, installing, monitoring, or maintaining exclusively single station devices, must employ at least one employee who is a fire alarm technician, residential fire alarm superintendent, or fire alarm planning superintendent."
+    },
+    {
+     "type": "p",
+     "text": "(b) A fire alarm technician, residential fire alarm technician, residential fire alarm superintendent, or fire alarm planning superintendent must hold a license issued by the department, conditioned on the successful completion of a written license examination."
+    },
+    {
+     "type": "p",
+     "text": "(c) To engage in the activity for which the license is granted, an individual licensed under this chapter must be an employee or agent of an individual or entity that holds a registration certificate."
+    },
+    {
+     "type": "p",
+     "text": "(d) A fire alarm technician may perform or supervise monitoring. A fire alarm planning superintendent may act as a fire alarm technician or a residential fire alarm superintendent. A residential fire alarm superintendent may act as a fire alarm technician."
+    },
+    {
+     "type": "p",
+     "text": "(d-1) A residential fire alarm technician may only provide direct on-site supervision to an employee of a registered firm for work performed under this chapter in a single-family or two-family dwelling."
+    },
+    {
+     "type": "p",
+     "text": "(d-2) An applicant for a residential fire alarm technician license must provide with the required license application evidence of the applicant's successful completion of the required instruction from a training school approved by the state fire marshal in accordance with Section 6002.158."
+    },
+    {
+     "type": "p",
+     "text": "(e) Applications for licenses and qualifications for those licenses are subject to rules adopted by the commissioner."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009. Amended by: Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(e), eff. September 1, 2009. Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(g), eff. September 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.155",
+   "heading": "Sec. 6002.155. Activities Not Regulated By Chapter",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The licensing provisions of this chapter do not apply to:"
+    },
+    {
+     "type": "p",
+     "text": "(1) an individual or organization in the business of building construction that installs electrical wiring and devices that may include, in part, the installation of a fire alarm or detection system if:"
+    },
+    {
+     "type": "p",
+     "text": "(A) the individual or organization is a party to a contract that provides that:"
+    },
+    {
+     "type": "p",
+     "text": "(i) the installation will be performed under the direct supervision of and certified by a licensed employee or agent of a firm registered to install and certify such an alarm or detection device; and"
+    },
+    {
+     "type": "p",
+     "text": "(ii) the registered firm assumes full responsibility for the installation of the alarm or detection device; and"
+    },
+    {
+     "type": "p",
+     "text": "(B) the individual or organization does not plan, certify, lease, sell, service, or maintain fire alarms or detection devices or systems;"
+    },
+    {
+     "type": "p",
+     "text": "(2) an individual or organization that:"
+    },
+    {
+     "type": "p",
+     "text": "(A) owns and installs a fire detection or fire alarm device on the individual's or organization's own property; or"
+    },
+    {
+     "type": "p",
+     "text": "(B) if the individual or organization does not charge for the device or its installation, installs the device for the protection of the individual's or organization's personal property located on another's property and does not install the device as a normal business practice on the property of another;"
+    },
+    {
+     "type": "p",
+     "text": "(3) an individual who holds a license or other authority issued by a municipality to practice as an electrician and who installs fire or smoke detection and alarm devices only in a single family or multifamily residence if:"
+    },
+    {
+     "type": "p",
+     "text": "(A) the devices installed are:"
+    },
+    {
+     "type": "p",
+     "text": "(i) single station detectors; or"
+    },
+    {
+     "type": "p",
+     "text": "(ii) multiple station detectors capable of being connected in a manner that actuation of one detector causes all integral or separate alarms to operate if the detectors are not connected to a control panel or to an outside alarm, do not transmit a signal off the premises, and do not use more than 120 volts; and"
+    },
+    {
+     "type": "p",
+     "text": "(B) all installations comply with the adopted edition of National Fire Protection Association Standard No. 72;"
+    },
+    {
+     "type": "p",
+     "text": "(4) an individual or organization that:"
+    },
+    {
+     "type": "p",
+     "text": "(A) sells fire detection or fire alarm devices exclusively over-the-counter or by mail order; and"
+    },
+    {
+     "type": "p",
+     "text": "(B) does not plan, certify, install, service, or maintain the devices;"
+    },
+    {
+     "type": "p",
+     "text": "(5) a law enforcement agency or fire department or a law enforcement officer or firefighter acting in an official capacity that responds to a fire alarm or detection device;"
+    },
+    {
+     "type": "p",
+     "text": "(6) an engineer licensed under Chapter 1001, Occupations Code, acting solely in the engineer's professional capacity;"
+    },
+    {
+     "type": "p",
+     "text": "(7) an individual or organization that provides and installs at no charge to the property owners or residents a battery-powered smoke detector in a single-family or two-family residence if:"
+    },
+    {
+     "type": "p",
+     "text": "(A) the smoke detector bears a label of listing or approval by a testing laboratory approved by the department;"
+    },
+    {
+     "type": "p",
+     "text": "(B) the installation complies with the adopted edition of National Fire Protection Association Standard No. 72;"
+    },
+    {
+     "type": "p",
+     "text": "(C) the installers are knowledgeable in fire protection and the proper use of smoke detectors; and"
+    },
+    {
+     "type": "p",
+     "text": "(D) the detector is a single station installation and not a part of or connected to any other detection device or system;"
+    },
+    {
+     "type": "p",
+     "text": "(8) an employee of a registered firm who is under the direct on-site supervision of a license holder;"
+    },
+    {
+     "type": "p",
+     "text": "(9) a building owner, the owner's managing agent, or an employee of the owner or agent who installs battery-operated single station smoke detectors or monitor fire alarm or fire detection devices or systems in the owner's building, and in which the monitoring:"
+    },
+    {
+     "type": "p",
+     "text": "(A) is performed at the owner's property at no charge to the occupants of the building;"
+    },
+    {
+     "type": "p",
+     "text": "(B) complies with applicable standards of the National Fire Protection Association as may be adopted by rule under this chapter; and"
+    },
+    {
+     "type": "p",
+     "text": "(C) uses equipment approved by a testing laboratory approved by the department for fire alarm monitoring;"
+    },
+    {
+     "type": "p",
+     "text": "(10) an individual employed by a registered firm that sells and installs a smoke or heat detector in a single-family or two-family residence if:"
+    },
+    {
+     "type": "p",
+     "text": "(A) the detector bears a label of listing or approval by a testing laboratory approved by the department;"
+    },
+    {
+     "type": "p",
+     "text": "(B) the installation complies with the adopted edition of National Fire Protection Association Standard No. 72;"
+    },
+    {
+     "type": "p",
+     "text": "(C) the installers are knowledgeable in fire protection and the proper use and placement of detectors; and"
+    },
+    {
+     "type": "p",
+     "text": "(D) the detector is a single station installation and not a part of or connected to any other detection device or system; or"
+    },
+    {
+     "type": "p",
+     "text": "(11) an individual or organization licensed to install or service burglar alarms under Chapter 1702, Occupations Code, that provides and installs in a single-family or two-family residence a combination keypad that includes a panic button to initiate a fire alarm signal if the fire alarm signal:"
+    },
+    {
+     "type": "p",
+     "text": "(A) is monitored by a fire alarm firm registered under this chapter; and"
+    },
+    {
+     "type": "p",
+     "text": "(B) is not initiated by a fire or smoke detection device."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009. Amended by: Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(f), eff. September 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.156",
+   "heading": "Sec. 6002.156. License Examination",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) The state fire marshal shall establish the scope and type of an examination required by this chapter. The examination must cover this chapter and commissioner rules and include specific testing of all license categories."
+    },
+    {
+     "type": "p",
+     "text": "(b) The state fire marshal may administer the examination or may enter into an agreement with a testing service."
+    },
+    {
+     "type": "p",
+     "text": "(c) If a testing service is used, the state fire marshal may contract with the testing service regarding requirements for the examination, including:"
+    },
+    {
+     "type": "p",
+     "text": "(1) examination development;"
+    },
+    {
+     "type": "p",
+     "text": "(2) scheduling;"
+    },
+    {
+     "type": "p",
+     "text": "(3) site arrangements;"
+    },
+    {
+     "type": "p",
+     "text": "(4) grading;"
+    },
+    {
+     "type": "p",
+     "text": "(5) reporting;"
+    },
+    {
+     "type": "p",
+     "text": "(6) analysis; or"
+    },
+    {
+     "type": "p",
+     "text": "(7) other administrative duties."
+    },
+    {
+     "type": "p",
+     "text": "(d) The state fire marshal may require the testing service to:"
+    },
+    {
+     "type": "p",
+     "text": "(1) correspond directly with an applicant regarding the administration of the examination;"
+    },
+    {
+     "type": "p",
+     "text": "(2) collect a reasonable fee from an applicant for administering the examination; or"
+    },
+    {
+     "type": "p",
+     "text": "(3) administer the examination at a specific location or time."
+    },
+    {
+     "type": "p",
+     "text": "(e) Approval for a testing service is valid for one year."
+    },
+    {
+     "type": "p",
+     "text": "(f) The state fire marshal shall adopt rules as necessary to implement examination requirements under this chapter."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.157",
+   "heading": "Sec. 6002.157. Examination Results",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) Not later than the 30th day after the date on which an examination is administered under this chapter, the state fire marshal shall send notice to each examinee of the results of the examination."
+    },
+    {
+     "type": "p",
+     "text": "(b) If an examination is conducted, graded, or reviewed by a testing service, the state fire marshal shall send notice to each examinee of the results of the examination within two weeks after the date on which the state fire marshal receives the results from the testing service."
+    },
+    {
+     "type": "p",
+     "text": "(c) If the notice of the examination results will be delayed for more than 90 days after the examination date, the state fire marshal shall send notice to the examinee of the reason for the delay before the 90th day."
+    },
+    {
+     "type": "p",
+     "text": "(d) The state fire marshal may require a testing service to notify an examinee of the results of the examinee's examination under this section."
+    },
+    {
+     "type": "p",
+     "text": "(e) If requested in writing by an individual who fails the examination administered under this chapter, the state fire marshal shall send to the individual an analysis of the individual's performance on the examination."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.158",
+   "heading": "Sec. 6002.158. Training Schools And Instructors; Approval",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) An applicant for approval as a training school must submit an application to the state fire marshal, accompanied by the applicant's complete course or testing curriculum. A registered firm, or an affiliate of a registered firm, is not eligible for approval as a training school."
+    },
+    {
+     "type": "p",
+     "text": "(b) The state fire marshal shall review the materials submitted for course approval and shall approve or deny approval in a letter provided not later than the 60th day after the date of receipt of the application. A denial of approval must disclose specific reasons for the denial. An applicant whose approval is denied may reapply at any time."
+    },
+    {
+     "type": "p",
+     "text": "(c) Training school instructors must be approved by the state fire marshal. To be eligible for approval, an instructor must:"
+    },
+    {
+     "type": "p",
+     "text": "(1) hold a fire alarm planning superintendent license, a residential fire alarm superintendent license, or a fire alarm technician license; and"
+    },
+    {
+     "type": "p",
+     "text": "(2) have at least three years of experience in fire alarm installation, service, or monitoring."
+    },
+    {
+     "type": "p",
+     "text": "(d) Approval for a training school or instructor is valid for one year."
+    },
+    {
+     "type": "p",
+     "text": "(e) The curriculum for a residential fire alarm technician course must consist of at least seven hours of instruction on installing, servicing, and maintaining single-family and two-family residential fire alarm systems as defined by National Fire Protection Standard No. 72 and an examination on National Fire Protection Standard No. 72 for which at least one hour is allocated for completion. The examination must consist of at least 25 questions, and an applicant must accurately answer at least 80 percent of the questions to pass the examination."
+    },
+    {
+     "type": "p",
+     "text": "(f) After approval, each training school must annually conduct, within 125 miles of each county with a population greater than 500,000, at least two classes that are open to the public."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009. Amended by: Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(h), eff. September 1, 2009. Acts 2011, 82nd Leg., R.S., Ch. 1147 (H.B. 1951), Sec. 15.001, eff. September 1, 2011. Acts 2013, 83rd Leg., R.S., Ch. 172 (H.B. 458), Sec. 1, eff. September 1, 2013."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.159",
+   "heading": "Sec. 6002.159. Continuing Education Programs",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) The commissioner may adopt procedures for certifying and may certify continuing education programs."
+    },
+    {
+     "type": "p",
+     "text": "(b) Participation in the continuing education programs is voluntary."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.160",
+   "heading": "Sec. 6002.160. Reciprocal License",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The department may waive any license requirement for an applicant who holds a license issued by another state that has license requirements substantially equivalent to the license requirements of this state."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.161",
+   "heading": "Sec. 6002.161. Not Transferable",
+   "level": 3,
+   "subchapter": "SUBCHAPTER D. REGISTRATION, LICENSE, AND APPROVAL REQUIREMENTS",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A registration certificate or license issued under this chapter is not transferable."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.201",
+   "heading": "Sec. 6002.201. Renewal Required; Fee",
+   "level": 3,
+   "subchapter": "SUBCHAPTER E. RENEWAL OF REGISTRATION CERTIFICATE OR LICENSE",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) A renewal of a registration certificate or license issued under this chapter is valid for a period of two years. The license or registration renewal fee for each year of the two-year period is payable on renewal."
+    },
+    {
+     "type": "p",
+     "text": "(b) The commissioner by rule may adopt a system under which registration certificates and licenses expire on various dates during the year. For the year in which an expiration date of a registration certificate or license is less than one year from its issuance or anniversary date, the fee shall be prorated on a monthly basis so that each holder of a registration certificate or license pays only that portion of the renewal fee that is allocable to the number of months during which the registration certificate or license is valid. The total renewal fee is payable on renewal on the new expiration date."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.202",
+   "heading": "Sec. 6002.202. Notice Of Expiration",
+   "level": 3,
+   "subchapter": "SUBCHAPTER E. RENEWAL OF REGISTRATION CERTIFICATE OR LICENSE",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "At least 30 days before the expiration date of a registration certificate or license, the state fire marshal shall send written notice of the impending expiration to the holder of the registration certificate or license at the holder's last known address."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.203",
+   "heading": "Sec. 6002.203. Renewal Procedures",
+   "level": 3,
+   "subchapter": "SUBCHAPTER E. RENEWAL OF REGISTRATION CERTIFICATE OR LICENSE",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) The holder of an unexpired registration certificate or license may renew the certificate or license by paying the required renewal fee to the department before the expiration date of the certificate or license."
+    },
+    {
+     "type": "p",
+     "text": "(b) An individual or organization whose registration certificate or license has been expired for 90 days or less may renew the certificate or license by paying to the department:"
+    },
+    {
+     "type": "p",
+     "text": "(1) the required renewal fee; and"
+    },
+    {
+     "type": "p",
+     "text": "(2) a fee that does not exceed one-fourth of the initial fee for the certificate or license."
+    },
+    {
+     "type": "p",
+     "text": "(c) An individual or organization whose registration certificate or license has been expired for more than 90 days but less than two years may renew the certificate or license by paying to the department:"
+    },
+    {
+     "type": "p",
+     "text": "(1) all unpaid renewal fees; and"
+    },
+    {
+     "type": "p",
+     "text": "(2) a fee that does not exceed the initial fee for the certificate or license."
+    },
+    {
+     "type": "p",
+     "text": "(d) An individual or organization whose registration certificate or license has been expired for two years or longer may not renew the certificate or license. The individual or organization may obtain a new registration certificate or license by complying with the requirements and procedures for obtaining an initial registration certificate or license."
+    },
+    {
+     "type": "p",
+     "text": "(e) This section may not be construed to prevent the department from denying or refusing to renew a license under applicable law or commissioner rules."
+    },
+    {
+     "type": "p",
+     "text": "(f) A license or registration certificate issued under this chapter expires at midnight on the date printed on the license or certificate. A renewal application and fee for the license or registration certificate must be postmarked on or before the expiration date to be accepted as timely."
+    },
+    {
+     "type": "p",
+     "text": "(g) If a renewal application is not complete but there has been no lapse in the required insurance, the applicant is entitled to 30 days from the date that the applicant is notified by the department of the deficiencies in the renewal application to comply with any additional requirement. If an applicant fails to respond and correct all deficiencies in the renewal application within the 30-day period, the department may charge a late fee."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.204",
+   "heading": "Sec. 6002.204. Renewal Of Certain Licenses",
+   "level": 3,
+   "subchapter": "SUBCHAPTER E. RENEWAL OF REGISTRATION CERTIFICATE OR LICENSE",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A license holder with an unexpired license who is not employed by a registered firm at the time of the license renewal may renew that license, but the license holder may not engage in any activity for which the license was granted until the license holder is employed by a registered firm."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.251",
+   "heading": "Sec. 6002.251. Required Label; Exceptions",
+   "level": 3,
+   "subchapter": "SUBCHAPTER F. SELLING OR LEASING OF FIRE ALARM",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) Except as provided by Subsections (b) and (c), a detection or alarm device, alarm system, or item of monitoring equipment, a purpose of which is to detect or give alarm of fire, may not be sold, offered for sale, leased, installed, or used to monitor property in this state unless the device, system, or item of equipment carries a label of approval or listing of a testing laboratory approved by the department."
+    },
+    {
+     "type": "p",
+     "text": "(b) Except as provided by Subsection (c), a detection or alarm device, alarm system, or item of monitoring equipment in a one-family or two-family residence, a purpose of which is to detect or give alarm of fire, may not be sold, offered for sale, leased, installed, or used to monitor property in this state after April 14, 1989, unless the device, system, or equipment carries a label of approval or listing of a testing laboratory approved by the department."
+    },
+    {
+     "type": "p",
+     "text": "(c) Subsections (a) and (b) do not prohibit the continued use or monitoring of equipment in place if the equipment:"
+    },
+    {
+     "type": "p",
+     "text": "(1) complied with the law applicable on the date of the equipment's original placement; and"
+    },
+    {
+     "type": "p",
+     "text": "(2) has not been extended, modified, or altered."
+    },
+    {
+     "type": "p",
+     "text": "(d) Fire alarm devices that are not required by this chapter or rules adopted under this chapter and that do not impair the operation of fire alarm or fire detection devices required by this chapter or the rules adopted under this chapter are exempt from the label and listing requirements described by Subsections (a) and (b) if the devices are approved by the local authority with jurisdiction."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.252",
+   "heading": "Sec. 6002.252. Required Purchase And Installation Information",
+   "level": 3,
+   "subchapter": "SUBCHAPTER F. SELLING OR LEASING OF FIRE ALARM",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A fire detection or fire alarm device may not be sold or installed in this state unless the device is accompanied by printed information that:"
+    },
+    {
+     "type": "p",
+     "text": "(1) is supplied to the owner by the supplier or installing contractor; and"
+    },
+    {
+     "type": "p",
+     "text": "(2) concerns:"
+    },
+    {
+     "type": "p",
+     "text": "(A) instructions describing the installation, operation, testing, and proper maintenance of the device;"
+    },
+    {
+     "type": "p",
+     "text": "(B) information to aid in establishing an emergency evacuation plan for the protected premises;"
+    },
+    {
+     "type": "p",
+     "text": "(C) the telephone number and location, including notification procedures, of the nearest fire department; and"
+    },
+    {
+     "type": "p",
+     "text": "(D) information that will aid in reducing the number of false alarms."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009. Amended by: Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(k), eff. September 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.253",
+   "heading": "Sec. 6002.253. Training And Supervision Of Certain Exempt Employees",
+   "level": 3,
+   "subchapter": "SUBCHAPTER F. SELLING OR LEASING OF FIRE ALARM",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Each registered firm that employs an individual who is exempt from the licensing requirements of this chapter under Section 6002.155(10) shall appropriately train and supervise the individual to ensure that:"
+    },
+    {
+     "type": "p",
+     "text": "(1) each installation complies with the adopted provisions of National Fire Protection Association Standard No. 72 or other adopted standards;"
+    },
+    {
+     "type": "p",
+     "text": "(2) each smoke or heat detector installed or sold carries a label or listing of approval by a testing laboratory approved by the department; and"
+    },
+    {
+     "type": "p",
+     "text": "(3) the individual is knowledgeable in fire protection and the proper use and placement of detectors."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009. Amended by: Acts 2009, 81st Leg., R.S., Ch. 87 (S.B. 1969), Sec. 14.018(l), eff. September 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.301",
+   "heading": "Sec. 6002.301. Prohibited Practices",
+   "level": 3,
+   "subchapter": "SUBCHAPTER G. PROHIBITED PRACTICES AND DISCIPLINARY PROCEDURES",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "An individual or organization may not:"
+    },
+    {
+     "type": "p",
+     "text": "(1) plan, certify, lease, sell, service, install, monitor, or maintain a fire alarm or fire detection device or system without a license or registration certificate;"
+    },
+    {
+     "type": "p",
+     "text": "(2) obtain or attempt to obtain a registration certificate or license by fraudulent representation; or"
+    },
+    {
+     "type": "p",
+     "text": "(3) plan, certify, lease, sell, service, install, monitor, or maintain a fire alarm or fire detection device or system in violation of this chapter or the rules adopted under this chapter."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.302",
+   "heading": "Sec. 6002.302. Disciplinary Actions",
+   "level": 3,
+   "subchapter": "SUBCHAPTER G. PROHIBITED PRACTICES AND DISCIPLINARY PROCEDURES",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) The state fire marshal may suspend, revoke, or refuse to issue or renew a registration certificate or license if, after notice and hearing, the state fire marshal finds that the applicant, registrant, or license holder has engaged in acts that:"
+    },
+    {
+     "type": "p",
+     "text": "(1) violate this chapter;"
+    },
+    {
+     "type": "p",
+     "text": "(2) violate rules or standards adopted under this chapter; or"
+    },
+    {
+     "type": "p",
+     "text": "(3) constitute misrepresentation made in connection with the sale of products or services rendered."
+    },
+    {
+     "type": "p",
+     "text": "(b) An original or renewal registration certificate, license, or testing laboratory approval may be denied, suspended, or revoked, if after notice and public hearing the commissioner, through the state fire marshal, determines from the evidence presented at the hearing that this chapter or a rule adopted under this chapter has been violated."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.303",
+   "heading": "Sec. 6002.303. Disciplinary Hearing",
+   "level": 3,
+   "subchapter": "SUBCHAPTER G. PROHIBITED PRACTICES AND DISCIPLINARY PROCEDURES",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) If the state fire marshal proposes to suspend, revoke, or refuse to renew a license or registration certificate issued under this chapter, the holder of the license or certificate is entitled to a hearing conducted by the State Office of Administrative Hearings."
+    },
+    {
+     "type": "p",
+     "text": "(b) Proceedings for a disciplinary action are governed by Chapter 2001, Government Code."
+    },
+    {
+     "type": "p",
+     "text": "(c) Rules of practice adopted by the commissioner applicable to the proceedings for a disciplinary action may not conflict with rules adopted by the State Office of Administrative Hearings."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.304",
+   "heading": "Sec. 6002.304. Reapplication Requirements",
+   "level": 3,
+   "subchapter": "SUBCHAPTER G. PROHIBITED PRACTICES AND DISCIPLINARY PROCEDURES",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) A holder of a registration certificate, license, or testing laboratory approval that has been revoked under this chapter may not file another application for a registration certificate, license, or approval before the first anniversary of the effective date of the revocation."
+    },
+    {
+     "type": "p",
+     "text": "(b) An individual or organization reapplying under this section must request a public hearing to show cause why the issuance of a new registration certificate, license, or approval should not be denied."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  },
+  {
+   "id": "tic-6002:6002.351",
+   "heading": "Sec. 6002.351. Criminal Penalty",
+   "level": 3,
+   "subchapter": "SUBCHAPTER H. CRIMINAL PENALTY",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "(a) An individual or organization commits an offense if the individual or organization violates Section 6002.151, 6002.152, or 6002.154."
+    },
+    {
+     "type": "p",
+     "text": "(b) An offense under this section is a Class B misdemeanor."
+    },
+    {
+     "type": "p",
+     "text": "(c) Venue for an offense under this section is in Travis County or the county in which the offense is committed."
+    },
+    {
+     "type": "note",
+     "text": "Added by Acts 2007, 80th Leg., R.S., Ch. 730 (H.B. 2636), Sec. 1J.001, eff. April 1, 2009."
+    }
+   ]
+  }
+ ]
+}

@@ -5,6 +5,8 @@ import { db, type UserProfile } from '../db/db';
 import { isDayUnlocked, markReviewComplete } from '../db/progress';
 import { startDailyTest } from '../db/session';
 import { dayById, documentsById, topicLabel } from '../content';
+import { readingMinutes, readingsForDay } from '../content/study';
+import { StudySectionView } from '../components/StudyText';
 import { Badge, Card, Header } from '../components/ui';
 
 export default function Review({ profile }: { profile: UserProfile }) {
@@ -20,6 +22,8 @@ export default function Review({ profile }: { profile: UserProfile }) {
   }, [dayNum]);
   const [flipped, setFlipped] = useState<Record<string, boolean>>({});
   const [busy, setBusy] = useState(false);
+  const [expandAll, setExpandAll] = useState(false);
+  const reading = readingsForDay(dayNum);
 
   if (!day) return <Navigate to="/" replace />;
   if (!progress || !flashcards) return <p className="muted">Loading…</p>;
@@ -52,23 +56,42 @@ export default function Review({ profile }: { profile: UserProfile }) {
         <ul>{day.review.objectives.map((o, i) => <li key={i}>{o}</li>)}</ul>
       </Card>
 
-      <Card>
-        <h3>Reading assignment</h3>
-        <ul className="list">
-          {day.review.readings.map((r, i) => {
-            const doc = documentsById.get(r.documentId);
-            const href = doc?.type === 'bundled' && doc.file ? `/docs/${doc.file.split('/').pop()}` : doc?.url;
-            return (
-              <li key={i} className="list__item" style={{ display: 'block' }}>
-                <div>{href ? <a href={href} target="_blank" rel="noopener noreferrer">{doc?.title ?? r.documentId}</a> : <strong>{doc?.title ?? r.documentId}</strong>}</div>
-                <div className="small muted">{r.section}</div>
-                {doc?.copyrightNote && <div className="small muted">{doc.copyrightNote}</div>}
-              </li>
-            );
-          })}
-        </ul>
-        <p className="small muted">All documents are listed under <Link to="/settings/documents">Settings › Study Documents</Link>.</p>
-      </Card>
+      {reading && reading.sections.length > 0 ? (
+        <Card>
+          <div className="row row--between">
+            <h3>Read today</h3>
+            <span className="small muted">{reading.sections.length} sections · ~{readingMinutes(reading.sections)} min</span>
+          </div>
+          {reading.intro && <p className="small">{reading.intro}</p>}
+          <div className="row" style={{ marginBottom: 8 }}>
+            <button className="btn btn--sm" onClick={() => setExpandAll(e => !e)}>{expandAll ? 'Collapse all' : 'Expand all'}</button>
+            <Link to="/guide" className="btn btn--sm btn--ghost">Open Study Guide</Link>
+          </div>
+          {reading.sections.map(({ source, section }, i) => (
+            <StudySectionView key={section.id + (expandAll ? '1' : '0')} source={source} section={section} open={expandAll || i === 0} />
+          ))}
+        </Card>
+      ) : (
+        <Card>
+          <h3>Reading assignment</h3>
+          {reading?.intro && <p className="small">{reading.intro}</p>}
+          <ul className="list">
+            {day.review.readings.map((r, i) => {
+              const doc = documentsById.get(r.documentId);
+              const href = doc?.type === 'bundled' && doc.file ? `/docs/${doc.file.split('/').pop()}` : doc?.url;
+              return (
+                <li key={i} className="list__item" style={{ display: 'block' }}>
+                  <div>{href ? <a href={href} target="_blank" rel="noopener noreferrer">{doc?.title ?? r.documentId} ↗</a> : <strong>{doc?.title ?? r.documentId}</strong>}</div>
+                  <div className="small muted">{r.section}</div>
+                  {doc?.copyrightNote && <div className="small" style={{ color: 'var(--warn)' }}>{doc.copyrightNote}</div>}
+                </li>
+              );
+            })}
+            {day.review.readings.length === 0 && <li className="muted small">No assigned reading. Use <Link to="/guide">the Study Guide</Link> to revisit your weakest topics.</li>}
+          </ul>
+          {day.exam === 'TFM12' && <p className="small muted">NFPA 72 and the NEC are copyrighted, so their text is not bundled. Read the cited chapter at NFPA's free-access site.</p>}
+        </Card>
+      )}
 
       {day.review.keyTerms.length > 0 && (
         <Card>

@@ -1,0 +1,94 @@
+{
+ "id": "tdi-fingerprints",
+ "title": "Fingerprint requirements and instructions for SFMO licenses",
+ "sourceUrl": "https://www.tdi.texas.gov/fire/fingerprint-instructions-sfmo.html",
+ "retrievedOn": "2026-09-22",
+ "license": "Public Texas government text (TDI / State Fire Marshal). Verify against the live page before relying on fees or dates.",
+ "sections": [
+  {
+   "id": "tdi-fingerprints:01-steps-for-getting-your-fingerprints-at-identogo",
+   "heading": "Steps for getting your fingerprints at IdentoGO:",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "Credit cards: Visa, MasterCard, Discover, and American Express",
+      "Business checks",
+      "Money orders",
+      "Coupon codes (employer accounts)"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Personal checks and cash are not accepted."
+    },
+    {
+     "type": "p",
+     "text": "Your fingerprints will be sent electronically to the DPS and the FBI. You won’t get a printed fingerprint card."
+    },
+    {
+     "type": "p",
+     "text": "The IdentoGO agent will give you a receipt."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Attach a copy of the receipt to your application.",
+      "Keep the original receipt for your records."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tdi-fingerprints:02-steps-for-getting-hard-card-ink-fingerprints",
+   "heading": "Steps for getting hard card ink fingerprints",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "If electronic fingerprinting isn’t available, you can get hard card ink fingerprints."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Credit cards: Visa, MasterCard, Discover, and American Express",
+      "Coupon codes (employer accounts)"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "If you fill out the online form, the confirmation document will be emailed to you. If you call, the confirmation document will be mailed to you."
+    },
+    {
+     "type": "p",
+     "text": "Get a copy of your fingerprints from a criminal law enforcement agency."
+    },
+    {
+     "type": "list",
+     "items": [
+      "You will need to show your photo ID.",
+      "Get a complete set of your fingerprints on an approved FBI fingerprint card from a local law enforcement agency. The cost for obtaining an ink card may vary and is not included in the Texas Background fee.",
+      "The card must be signed by you and the official taking the fingerprints."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Mail your fingerprints and confirmation document to IdentoGO. The address is on the confirmation document. Don’t mail your fingerprints and confirmation document to SFMO – this will delay the processing of your application."
+    },
+    {
+     "type": "p",
+     "text": "IdentoGO will mail a receipt to you. You can check the status by going to the IdentoGO website and clicking “Check the Status of your Service.”"
+    },
+    {
+     "type": "p",
+     "text": "Attach a copy of the receipt to your application. Keep the original receipt for your records."
+    },
+    {
+     "type": "p",
+     "text": "Last updated: 9/4/2026"
+    }
+   ]
+  }
+ ]
+}

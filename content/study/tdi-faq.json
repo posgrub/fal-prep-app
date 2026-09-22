@@ -1,0 +1,243 @@
+{
+ "id": "tdi-faq",
+ "title": "SFMO frequently asked questions – Alarms",
+ "sourceUrl": "https://www.tdi.texas.gov/fire/fmfaq.html",
+ "retrievedOn": "2026-09-22",
+ "license": "Public Texas government text (TDI / State Fire Marshal). Verify against the live page before relying on fees or dates.",
+ "sections": [
+  {
+   "id": "tdi-faq:01-is-it-the-state-fire-marshal-s-intent-that-an-existing-fire-",
+   "heading": "Is it the State Fire Marshal’s intent that an existing fire alarm system which does not meet current code be yellow tagged and brought up to current code?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "No. The fire alarm rules do not require a yellow (noncompliant) label on a system just because it does not meet current codes. The key is “applicable” codes & adopted standards. The burden is on the fire alarm company to communicate with the local AHJs and know what their requirements are and whether current code requirements have to be met on an existing building. A yellow tag would not be appropriate for an existing system where the owner is not required (by the AHJ) to upgrade to current standards."
+    },
+    {
+     "type": "p",
+     "text": "Reference: 28 TAC 34.623"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:02-the-fire-alarm-company-i-work-for-is-not-registered-for-spri",
+   "heading": "The fire alarm company I work for is not registered for sprinkler work. When inspecting the fire alarm systems, are we allowed to test the sprinkler waterflows using the inspector's test valve? In reading 34.616b3, it appears to allow this.",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "If a fire alarm technician is testing devices on other systems (sprinkler or extinguisher) and testing the device will operate (activate) the other system in any manner, the technician and company must also meet the licensing requirements of the appropriate chapter(s); TIC 6001, 6003. (Amended March 2017)"
+    },
+    {
+     "type": "p",
+     "text": "Removing the cover of a flow switch and manipulating the contacts is not an acceptable way to test the waterflow switch. NFPA requires flowing water via an inspectors test valve. If the fire alarm inspector is not an authorized employee of a registered sprinkler firm, he cannot operate the inspector test valve to flow water and test the waterflow switches. The fire alarm inspector could have the owner operate the inspector test or coordinate with the sprinkler company to schedule testing at the same time. (Amended March 2017)"
+    },
+    {
+     "type": "p",
+     "text": "Reference: 28 TAC 34.616.(b)(3), NFPA 72 (2013) - 14.4.3.2"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:03-there-is-a-new-device-on-the-market-that-senses-the-alarm-so",
+   "heading": "There is a new device on the market that senses the alarm sound from existing smoke alarms in a house and then transmits the signal to the central monitoring station. They are part of a wireless system. Does a company have to be licensed for fire alarm to install this device in Texas?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Yes. Installation of these devices require the company to be registered for fire alarm through the State Fire Marshal's Office and the installing employee to hold at least a residential fire alarm technician license. The monitoring station must also be registered for fire alarm."
+    },
+    {
+     "type": "p",
+     "text": "These devices are intended to notify an owner and monitoring facility that a fire alarm device has been activated within the residence. The monitoring facility then takes appropriate action, including notifying the local fire department to dispatch emergency services. That being the case, these devices fall within the scope of the Fire Detection and Alarm Device statute (Texas Insurance Code 6002) and related rules."
+    },
+    {
+     "type": "p",
+     "text": "Reference: Texas Insurance Code, Chapter 6002 ~ 28 Texas Administrative Code 34.600"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:04-is-a-yellow-label-required-on-a-fire-alarm-system-where-they",
+   "heading": "Is a yellow label required on a fire alarm system where they do not have as-built plans or the test certificate (FML-009)?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "This would typically not be an appropriate use for a yellow label. Depending on age of the system and ownership changes, these items could easily become lost or damaged and the property owner would be faced with significant cost to have another company recreate them. An exception would be where the local AHJ enforces the need for the plans and test certificates to be replaced by the property owner. If that is the case, a yellow label would be appropriate and required in that jurisdiction."
+    },
+    {
+     "type": "p",
+     "text": "The yellow labels are intended to identify noncompliant issues that might impact the fire alarm system's ability to respond quickly and function properly when needed. Examples of these issues include: missing devices or areas of coverage, improper installation or application of devices, changes in occupancy type of the protected premise, lack of required testing or maintenance of the system."
+    },
+    {
+     "type": "p",
+     "text": "Reference: 28 TAC Fire Alarm Rules 34.623. Yellow Labels"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:05-the-company-which-services-and-monitors-my-home-security-sys",
+   "heading": "The company which services and monitors my home security system just informed me that the State Fire Marshal requires that my home alarm monitoring company inspect my smoke or heat detectors every 3 years and that your office requires them to replace any detectors with a manufacturing date over 10 years old. Is this in fact a State Fire Marshal's requirement?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "No. The state fire marshal does not require you to have your system inspected every three years or replace your smoke detectors over 10 years old. The State Fire Marshal’s Office does not have jurisdiction over you as a homeowner in Texas. We certainly encourage homeowners to follow national standards and manufacturer's recommendations, but there is not a state code that “requires” you to do so."
+    },
+    {
+     "type": "p",
+     "text": "The company is referencing sections from NFPA 72 (a National Fire Protection Association standard). NFPA 72 is adopted under the SFMO rules and companies are required to follow it as a minimum standard and best practice when engaging in the fire alarm business. That being said, it is up to the homeowner whether they want to inspect and maintain their home smoke alarms or detectors per these national standards."
+    },
+    {
+     "type": "p",
+     "text": "Reference: NFPA 72 (2007) 11.10"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:06-on-jobs-where-the-electrical-contractor-is-installing-the-fi",
+   "heading": "On jobs where the electrical contractor is installing the fire alarm, does the required direct supervision from the fire alarm contractor have to be provided on-site at all times?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The licensing exception for electrical contractors requires direct supervision from the registered fire alarm firm, but it does not include the term “on-site.” The Fire Alarm Rules define “direct supervision” as the control of work as it is being performed. The registered firm assumes full responsibility for the installation and must perform and document the installation inspections as required by the fire alarm rules. The fire alarm firm is responsible to ensure that the level of supervision is appropriate."
+    },
+    {
+     "type": "p",
+     "text": "Reference: TIC Sec. 6002.155.(1), 28 TAC 34.618"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:07-can-i-remove-a-fire-alarm-system-for-non-payment",
+   "heading": "Can I remove a fire alarm system for non-payment?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Removing a fire alarm system for non-payment is not addressed in the statute or rules related to fire alarm (TIC 6002 or 28 TAC Chapter 34.600). A recommendation would be to consult with an attorney. Removing the system without understanding applicable business and service trade laws, may put you or your company in violation of statute and liable for damages."
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:08-we-have-seen-cases-over-the-last-few-years-where-out-of-stat",
+   "heading": "We have seen cases over the last few years where out of state companies (not registered in Texas) contract for nationwide service policies and then subcontract with a Texas registered firm to perform the work in Texas. Is this legal?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "No. The out of state fire alarm contractor needs to hold a valid Alarm Certificate of Registration (ACR)."
+    },
+    {
+     "type": "p",
+     "text": "Exception would be if the project or out of state contractor meets any of the criteria in TIC 6002.155."
+    },
+    {
+     "type": "p",
+     "text": "Reference: 6002.151.(a)"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:09-i-have-a-number-of-businesses-in-our-city-that-have-50-fire-",
+   "heading": "I have a number of businesses in our city that have 50+ fire alarm tags on their panels. Can I as the AHJ remove any old tags?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Service labels are required to remain in place for at least two years, after which they may be removed by a licensed employee or agent of a registered firm. The Fire Alarm Rules allow the State Fire Marshal's Office or local AHJ to remove excess labels at any time."
+    },
+    {
+     "type": "p",
+     "text": "Reference: 28TAC 34.621.(d)"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:10-we-were-told-that-100-of-devices-must-be-tested-when-conduct",
+   "heading": "We were told that 100% of devices must be tested when conducting an annual inspection of fire alarm in schools. NFPA shows 10% of devices must be tested.",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "An annual inspection would include 100% of the devices as required by Table 10.4.4 in NFPA 72."
+    },
+    {
+     "type": "p",
+     "text": "There is a 10% of devices reference in Section 10.4.1.2 of NFPA 72. This applies to Reacceptance testing after additions or modifications to the system."
+    },
+    {
+     "type": "p",
+     "text": "Reference: NFPA 72 (2007) 10.4"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:11-if-a-registered-firm-installs-supplemental-smoke-alarms-or-s",
+   "heading": "If a registered firm installs supplemental smoke alarms or smoke detection, do we have to verify that the existing coverage meets NFPA 72?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Yes. Before adding smoke alarms or smoke detectors to a home, the existing coverage must meet the minimum requirements of NFPA 72. The minimum required coverage and type of smoke alarms (battery/120v) may vary depending on age of the home (amended June 2016)."
+    },
+    {
+     "type": "p",
+     "text": "As a general rule of thumb, houses built in 2000 or later should be expected to have the minimum coverage of interconnected smoke alarms with primary power from the building electrical system. As with most design questions, however, determining whether a house has sufficient existing coverage is best handled case by case and based on a review by the firm's licensed Residential Fire Alarm Superintendent. For a home built after 2000, NFPA 72 will typically require complete coverage from either smoke alarms or system smoke detectors independently. Compliance cannot rely on the combination of the following: single-station alarms, multiple-station alarms, household fire alarm system (with smoke alarms or smoke detectors) (amended June 2016)."
+    },
+    {
+     "type": "p",
+     "text": "Reference: NFPA 72 (2007), 11.3, 11.5.1.1"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:12-we-have-several-office-locations-in-texas-can-our-labels-be-",
+   "heading": "We have several office locations in Texas. Can our labels be printed with each location's address and phone number, or do they all have to bear the address and phone of the main office location?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Each registered branch office may have its own labels with its own physical address location and phone number. The address should be the physical address that someone with a complaint or question can come and visit the firm. Adding a mailing address (PO Box) is optional. The labels can no longer be used if the branch office closes, or the phone number is no longer in service."
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:13-the-industry-is-using-mc-type-cable-this-is-a-metal-sheathed",
+   "heading": "The industry is using “MC” type cable. This is a metal sheathed, flexible cable that is rated for use in fire alarm systems. Would this type cable fall under the exclusions listed for the definition of “direct supervision” and therefore able to be installed without direct supervision of a licensed individual?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "No. Fire rated cables are not covered by the exemption in the definition of Direct supervision and are required to be installed by a licensed individual or under direct supervision."
+    },
+    {
+     "type": "p",
+     "text": "Exception would be if the work falls under non-regulated activities. TIC 6002.155"
+    },
+    {
+     "type": "p",
+     "text": "Reference: 28 TAC, 34.606.(8), 34.616.(b)(1)"
+    }
+   ]
+  },
+  {
+   "id": "tdi-faq:14-does-an-employee-of-a-registered-firm-have-to-be-licensed-to",
+   "heading": "Does an employee of a registered firm have to be licensed to sell fire alarm systems?",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A person selling a fire alarm system, that does not design or install fire alarm systems, is not required to hold an individual license under the Fire Alarm Statutes and Rules, however, they must be the employee of a registered firm. If their sales duties include planning, installation, or service in any way, however, they need to hold the appropriate license."
+    },
+    {
+     "type": "p",
+     "text": "Reference: 28 TAC, Fire Alarm Rules, 34.611"
+    }
+   ]
+  }
+ ]
+}

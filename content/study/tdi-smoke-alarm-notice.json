@@ -1,0 +1,73 @@
+{
+ "id": "tdi-smoke-alarm-notice",
+ "title": "SFMO notice: licensing for smoke alarms and DIY suppliers (Sept 2018)",
+ "sourceUrl": "https://tdi.texas.gov/Fire/fmnseptember2018.html",
+ "retrievedOn": "2026-09-22",
+ "license": "Public Texas government text (TDI / State Fire Marshal). Verify against the live page before relying on fees or dates.",
+ "sections": [
+  {
+   "id": "tdi-smoke-alarm-notice:01-licensing-requirements",
+   "heading": "Licensing requirements",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The supplier does not need an Alarm Certificate of Registration Number (ACR) in Texas if:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Sales are exclusively over-the-counter or by mail or internet.",
+      "and",
+      "The supplier does not plan, certify, install, service, or monitor smoke alarms."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Be aware of these requirements:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "When smoke alarms or smoke detectors are installed by a contractor, the company must hold a certificate of registration issued by the State Fire Marshal’s Office, and the installing technician must hold at least a residential fire alarm technician license.",
+      "If the devices are monitored to dispatch the fire department, the monitoring station must be registered for fire alarm monitoring through the State Fire Marshal’s Office."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tdi-smoke-alarm-notice:02-listed-equipment",
+   "heading": "Listed equipment",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The fire alarm statute includes a provision that supplementary devices are not required to be listed by a nationally recognized testing laboratory if they are approved by the local authority having jurisdiction. (Texas Insurance Code 6002.251.(d))"
+    }
+   ]
+  },
+  {
+   "id": "tdi-smoke-alarm-notice:03-monthly-test-of-alarm-signal-to-remote-monitoring-station",
+   "heading": "Monthly test of alarm signal to remote monitoring station",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "NFPA 72 (National Fire Alarm Code) specifies the performance requirements for remote monitoring of alarm signals from smoke alarms and household systems. It requires that each alarm transmitter shall automatically initiate and complete a test signal transmission sequence at least monthly. (NFPA 72 (2013) - 29.7.9)"
+    },
+    {
+     "type": "p",
+     "text": "In setting up these accounts, the alarm dealer and supervising station must ensure that adopted standards are followed and the automatic test signals are enabled. Failure to receive a test signal is treated as a trouble signal, and the station operator must initiate action appropriate to the type of service being provided (central station, remote station). These requirements cannot be waived by either the subscriber or homeowner or the alarm dealer."
+    },
+    {
+     "type": "p",
+     "text": "For more information, contact: Fire.Marshal@tdi.texas.gov"
+    },
+    {
+     "type": "p",
+     "text": "Last updated: 10/5/2023"
+    }
+   ]
+  }
+ ]
+}

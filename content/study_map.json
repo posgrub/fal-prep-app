@@ -1,0 +1,259 @@
+{
+  "note": "Maps each curriculum day to the study-guide sections (content/study/*.json) to read in the app. A section ref is 'sourceId:sectionId' or 'sourceId:*' for the whole source. Days with no entry fall back to the readings list in curriculum.json.",
+  "days": {
+    "1": {
+      "intro": "How Texas licenses fire alarm work: who must register, which licenses exist, and how the SFMO tests run.",
+      "sections": [
+        "tdi-test-info:01-instructions",
+        "tdi-test-info:02-company-registrations",
+        "tdi-test-info:06-individual-licenses",
+        "tdi-test-info:08-fire-alarm-technician",
+        "tdi-test-info:13-tests",
+        "tdi-test-info:14-scheduling-a-test",
+        "tdi-test-info:15-test-description",
+        "tdi-test-info:16-test-scores",
+        "tdi-test-info:17-test-restrictions",
+        "tdi-test-info:18-fire-alarm-statutes-and-rules-tfm11-test",
+        "tdi-test-info:19-fire-alarm-technician-tfm12-test",
+        "tdi-alarm-licensing:*"
+      ]
+    },
+    "2": {
+      "intro": "Subchapter A of TIC 6002: why the chapter exists, the definitions every question builds on, and what is exempt.",
+      "sections": [
+        "tic-6002:6002.001",
+        "tic-6002:6002.002",
+        "tic-6002:6002.003",
+        "tic-6002:6002.004",
+        "tic-6002:6002.155"
+      ]
+    },
+    "3": {
+      "intro": "Subchapter D of TIC 6002: when a firm needs a certificate of registration and when an individual needs a license.",
+      "sections": [
+        "tic-6002:6002.151",
+        "tic-6002:6002.152",
+        "tic-6002:6002.154",
+        "tic-6002:6002.156",
+        "tic-6002:6002.157",
+        "tic-6002:6002.160",
+        "tic-6002:6002.161"
+      ]
+    },
+    "4": {
+      "intro": "The rule definitions and the list of adopted NFPA standards. Know the edition years.",
+      "sections": [
+        "tac-34-600:34.601",
+        "tac-34-600:34.602",
+        "tac-34-600:34.603",
+        "tac-34-600:34.604",
+        "tac-34-600:34.606",
+        "tac-34-600:34.607",
+        "tac-34-600:34.608",
+        "tac-34-600:34.609"
+      ]
+    },
+    "5": {
+      "intro": "What each license type may do: plan, install, certify, service, monitor. Read the license scope table carefully.",
+      "sections": [
+        "tdi-test-info:07-fire-alarm-planning-superintendent",
+        "tdi-test-info:08-fire-alarm-technician",
+        "tdi-test-info:09-fire-alarm-monitoring-technician",
+        "tdi-test-info:10-residential-fire-alarm-superintendent",
+        "tdi-test-info:11-residential-fire-alarm-superintendent-single-station",
+        "tdi-test-info:12-residential-fire-alarm-technician",
+        "tdi-test-info:13-tests",
+        "tac-34-600:34.610",
+        "tac-34-600:34.611"
+      ]
+    },
+    "6": {
+      "intro": "How companies and individuals apply, and what the SFMO needs before it will issue anything.",
+      "sections": [
+        "tac-34-600:34.613",
+        "tac-34-600:34.612",
+        "tac-34-600:34.630",
+        "tdi-test-info:02-company-registrations",
+        "tdi-test-info:03-alarm-certificate-of-registration",
+        "tdi-test-info:04-alarm-branch-office-certificate-of-registration",
+        "tdi-test-info:05-alarm-certificate-of-registration-single-station"
+      ]
+    },
+    "7": {
+      "intro": "Liability insurance: minimum limits, what the certificate must show, and the statute behind it.",
+      "sections": [
+        "tdi-insurance:*",
+        "tic-6002:6002.153",
+        "tic-6002:6002.0531"
+      ]
+    },
+    "8": {
+      "intro": "Fees, renewals, expiration notices, and what changes require an updated certificate or license.",
+      "sections": [
+        "tdi-test-info:24-fees",
+        "tac-34-600:34.614",
+        "tic-6002:6002.054",
+        "tic-6002:6002.201",
+        "tic-6002:6002.202",
+        "tic-6002:6002.203",
+        "tic-6002:6002.204"
+      ]
+    },
+    "9": {
+      "intro": "Fingerprint background checks: when they are required and the IdentoGO process.",
+      "sections": [
+        "tdi-fingerprints:*",
+        "tdi-alarm-licensing:03-fingerprint-requirements"
+      ]
+    },
+    "10": {
+      "intro": "Consolidation: re-read the applications rule and the registration statute together.",
+      "sections": [
+        "tac-34-600:34.613",
+        "tac-34-600:34.610",
+        "tac-34-600:34.611",
+        "tic-6002:6002.151",
+        "tic-6002:6002.154"
+      ]
+    },
+    "11": {
+      "intro": "Installation rules: who may install, the installation certificate, inspections, plans, and record drawings.",
+      "sections": [
+        "tac-34-600:34.616",
+        "tac-34-600:34.617",
+        "tac-34-600:34.618",
+        "tac-34-600:34.619",
+        "tac-34-600:34.620",
+        "tic-6002:6002.252"
+      ]
+    },
+    "12": {
+      "intro": "Service, inspection, and testing: service labels, inspection/test labels, and the FAQ on annual testing.",
+      "sections": [
+        "tac-34-600:34.616",
+        "tac-34-600:34.621",
+        "tac-34-600:34.622",
+        "tdi-faq:10-we-were-told-that-100-of-devices-must-be-tested-when-conduct",
+        "tdi-faq:02-the-fire-alarm-company-i-work-for-is-not-registered-for-spri",
+        "tdi-faq:09-i-have-a-number-of-businesses-in-our-city-that-have-50-fire-"
+      ]
+    },
+    "13": {
+      "intro": "Yellow (non-compliant) and red (impaired) labels: when each is required, who must be notified, and what the label says.",
+      "sections": [
+        "tac-34-600:34.623",
+        "tac-34-600:34.624",
+        "tdi-faq:01-is-it-the-state-fire-marshal-s-intent-that-an-existing-fire-",
+        "tdi-faq:04-is-a-yellow-label-required-on-a-fire-alarm-system-where-they",
+        "tdi-faq:12-we-have-several-office-locations-in-texas-can-our-labels-be-"
+      ]
+    },
+    "14": {
+      "intro": "Monitoring: which license monitors, what monitoring requires, and the SFMO answers on monitoring companies.",
+      "sections": [
+        "tac-34-600:34.616",
+        "tdi-test-info:09-fire-alarm-monitoring-technician",
+        "tdi-test-info:21-fire-alarm-monitoring-tfm14-test",
+        "tdi-faq:05-the-company-which-services-and-monitors-my-home-security-sys",
+        "tdi-faq:03-there-is-a-new-device-on-the-market-that-senses-the-alarm-so",
+        "tdi-faq:08-we-have-seen-cases-over-the-last-few-years-where-out-of-stat"
+      ]
+    },
+    "15": {
+      "intro": "Residential systems and single-station devices: the residential licenses, the DIY supplier notice, and the exemptions.",
+      "sections": [
+        "tdi-smoke-alarm-notice:*",
+        "tdi-test-info:10-residential-fire-alarm-superintendent",
+        "tdi-test-info:11-residential-fire-alarm-superintendent-single-station",
+        "tdi-test-info:12-residential-fire-alarm-technician",
+        "tdi-test-info:20-fire-alarm-residential-tfm13-test",
+        "tac-34-600:34.628",
+        "tic-6002:6002.155",
+        "tic-6002:6002.251",
+        "tic-6002:6002.253",
+        "tdi-faq:11-if-a-registered-firm-installs-supplemental-smoke-alarms-or-s"
+      ]
+    },
+    "16": {
+      "intro": "Prohibited practices, discipline, hearings, reapplication, and the criminal penalty.",
+      "sections": [
+        "tic-6002:6002.301",
+        "tic-6002:6002.302",
+        "tic-6002:6002.303",
+        "tic-6002:6002.304",
+        "tic-6002:6002.351",
+        "tac-34-600:34.625",
+        "tdi-faq:07-can-i-remove-a-fire-alarm-system-for-non-payment",
+        "tdi-faq:14-does-an-employee-of-a-registered-firm-have-to-be-licensed-to"
+      ]
+    },
+    "17": {
+      "intro": "Records, notices, and what the department and the firm must keep or display.",
+      "sections": [
+        "tac-34-600:34.605",
+        "tac-34-600:34.619",
+        "tac-34-600:34.612",
+        "tic-6002:6002.056",
+        "tic-6002:6002.161",
+        "tdi-faq:06-on-jobs-where-the-electrical-contractor-is-installing-the-fi",
+        "tdi-faq:13-the-industry-is-using-mc-type-cable-this-is-a-metal-sheathed"
+      ]
+    },
+    "18": {
+      "intro": "Full re-read of Texas Insurance Code Chapter 6002, start to finish.",
+      "sections": ["tic-6002:*"]
+    },
+    "19": {
+      "intro": "Full re-read of 28 TAC §34.600 (Subchapter F), start to finish.",
+      "sections": ["tac-34-600:*"]
+    },
+    "20": {
+      "intro": "Weak-area day. Use Progress › by topic to pick your two weakest topics, then re-read them in the Study Guide.",
+      "sections": []
+    },
+    "21": {
+      "intro": "Numbers drill: fees, insurance limits, test rules, renewal periods, label sizes.",
+      "sections": [
+        "tdi-test-info:24-fees",
+        "tac-34-600:34.614",
+        "tdi-insurance:*",
+        "tdi-test-info:16-test-scores",
+        "tdi-test-info:17-test-restrictions",
+        "tac-34-600:34.623",
+        "tac-34-600:34.624"
+      ]
+    },
+    "22": {
+      "intro": "Scope drill: which license does what, and what each certificate of registration covers.",
+      "sections": [
+        "tdi-test-info:13-tests",
+        "tac-34-600:34.610",
+        "tac-34-600:34.611",
+        "tic-6002:6002.151",
+        "tic-6002:6002.154"
+      ]
+    },
+    "23": {
+      "intro": "Rules drill on labels, monitoring, and installation, plus the exam-day checklist.",
+      "sections": [
+        "tac-34-600:34.620",
+        "tac-34-600:34.621",
+        "tac-34-600:34.622",
+        "tac-34-600:34.623",
+        "tac-34-600:34.624",
+        "tac-34-600:34.616",
+        "tdi-test-info:14-scheduling-a-test",
+        "tdi-test-info:15-test-description"
+      ]
+    },
+    "55": {
+      "intro": "Keep TFM11 fresh: skim the definitions, labels, and fees.",
+      "sections": [
+        "tac-34-600:34.606",
+        "tac-34-600:34.623",
+        "tac-34-600:34.624",
+        "tac-34-600:34.614"
+      ]
+    }
+  }
+}

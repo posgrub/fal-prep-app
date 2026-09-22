@@ -1,4 +1,6 @@
+import { Link } from 'react-router-dom';
 import { documentGroups, type StudyDocument } from '../content';
+import { studySourceById } from '../content/study';
 import { Badge, Card, Header } from '../components/ui';
 
 function href(d: StudyDocument): string | undefined {
@@ -16,19 +18,22 @@ export default function StudyDocuments() {
           <ul className="list">
             {g.items.map(d => {
               const link = href(d);
-              const inApp = d.type !== 'external';
+              const bundledText = studySourceById.get(d.id);
+              const inApp = d.type !== 'external' || !!bundledText;
               return (
                 <li key={d.id} className="list__item" style={{ display: 'block' }}>
                   <div className="row row--between">
-                    {link
-                      ? <a href={link} target={inApp ? '_self' : '_blank'} rel="noopener noreferrer" style={{ fontWeight: 600 }}>{d.title}</a>
-                      : <strong>{d.title}</strong>}
+                    {bundledText
+                      ? <Link to={`/guide/${d.id}`} style={{ fontWeight: 600 }}>{d.title}</Link>
+                      : link
+                        ? <a href={link} target={d.type === 'external' ? '_blank' : '_self'} rel="noopener noreferrer" style={{ fontWeight: 600 }}>{d.title}{d.type === 'external' ? ' ↗' : ''}</a>
+                        : <strong>{d.title}</strong>}
                   </div>
                   <div className="small muted">{d.purpose}</div>
                   <div className="row" style={{ marginTop: 6 }}>
                     <Badge tone={d.required ? 'info' : 'neutral'}>{d.required ? 'Required' : 'Optional'}</Badge>
                     <Badge tone={d.cost === 'free' ? 'good' : 'warn'}>{d.cost}</Badge>
-                    <Badge>{inApp ? 'In app' : 'External'}</Badge>
+                    <Badge tone={inApp ? 'good' : 'neutral'}>{bundledText ? 'Full text in app' : inApp ? 'In app' : 'External'}</Badge>
                     {d.edition && <Badge>{d.edition} edition</Badge>}
                   </div>
                   {d.copyrightNote && <div className="small" style={{ color: 'var(--warn)', marginTop: 4 }}>{d.copyrightNote}</div>}

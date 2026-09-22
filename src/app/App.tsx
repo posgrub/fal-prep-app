@@ -18,6 +18,7 @@ import StudyDocuments from '../screens/StudyDocuments';
 import HarrisCounty from '../screens/HarrisCounty';
 import About from '../screens/About';
 import Users from '../screens/Users';
+import { GuideIndex, GuideSource } from '../screens/Guide';
 
 export default function App() {
   const { user } = useAuth();
@@ -71,6 +72,8 @@ function SignedInApp({ accountId }: { accountId: string }) {
           <Route path="/settings/password" element={<ChangePassword />} />
           <Route path="/settings/users" element={<Users />} />
           <Route path="/settings/documents" element={<StudyDocuments />} />
+          <Route path="/guide" element={<GuideIndex />} />
+          <Route path="/guide/:sourceId" element={<GuideSource />} />
           <Route path="/settings/harris-county" element={<HarrisCounty />} />
           <Route path="/settings/about" element={<About />} />
           <Route path="/onboarding" element={<Navigate to="/" replace />} />

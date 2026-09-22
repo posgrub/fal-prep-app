@@ -1,0 +1,108 @@
+{
+ "id": "tdi-insurance",
+ "title": "Certificate of liability insurance requirements",
+ "sourceUrl": "https://www.tdi.texas.gov/fire/certificate-liability-insurance.html",
+ "retrievedOn": "2026-09-22",
+ "license": "Public Texas government text (TDI / State Fire Marshal). Verify against the live page before relying on fees or dates.",
+ "sections": [
+  {
+   "id": "tdi-insurance:01-important-reminders",
+   "heading": "Important reminders",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "Certificate must be signed by an individual who is a licensed general lines or surplus lines agent in Texas. A company stamp will not be accepted.",
+      "Registered companies with an expired insurance certificate are in violation and will no longer be listed on our search page.",
+      "We won’t approve license renewals or new applications until you’ve met all insurance requirements.",
+      "Your policy must cover activities performed by someone designated as an agent or employee of the company.",
+      "You must make sure that a current certificate of insurance is on file with the SFMO. Email: FMLicensing@tdi.texas.gov"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tdi-insurance:02-example",
+   "heading": "Example",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Image description is below."
+    }
+   ]
+  },
+  {
+   "id": "tdi-insurance:03-image-description",
+   "heading": "Image description",
+   "level": 4,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The Certificate of Liability Insurance form with the following fields highlighted:"
+    },
+    {
+     "type": "p",
+     "text": "Producer – Insurance agent or broker who issues the certificate"
+    },
+    {
+     "type": "p",
+     "text": "Name of Insured – The company or owner’s name, assumed name, and address. Must be the same as shown on the certificate or application filed with SFMO."
+    },
+    {
+     "type": "p",
+     "text": "Insurer(s) Affording Coverage – The name of the company as listed with the TDI. Include the NAIC number."
+    },
+    {
+     "type": "p",
+     "text": "Type of Insurance – The General Liability box must be checked."
+    },
+    {
+     "type": "p",
+     "text": "Policy Type – The OCCUR box must be checked."
+    },
+    {
+     "type": "p",
+     "text": "Policy Number – You must list the policy number. Indicating TBD isn’t acceptable."
+    },
+    {
+     "type": "p",
+     "text": "Policy Effective Date – Must be earlier than or the same as the expiration date of the last insurance certificate filed with SFMO. (Show no lapse in coverage.)"
+    },
+    {
+     "type": "p",
+     "text": "Policy Expiration Date – Required."
+    },
+    {
+     "type": "p",
+     "text": "Limits of Insurance – Must be at least $100,000 of combined single limits per occurrence and $300,000 total for policy year. Products and completed operations coverage are required."
+    },
+    {
+     "type": "p",
+     "text": "Limits of Insurance for Public Fireworks Display Permits –Must be $500,000 combined single limits per occurrence. Products and completed operations coverage aren’t required."
+    },
+    {
+     "type": "p",
+     "text": "Description of operations – Indicate the types of business covered."
+    },
+    {
+     "type": "p",
+     "text": "Certificate Holder – Must be listed as the State Fire Marshal’s Office."
+    },
+    {
+     "type": "p",
+     "text": "Authorized Representative – Must be signed by a general lines or surplus lines agent licensed in Texas, as appropriate. Print the agent’s name and license number."
+    },
+    {
+     "type": "p",
+     "text": "For more information, contact: FMLicensing@tdi.texas.gov"
+    },
+    {
+     "type": "p",
+     "text": "Last updated: 5/13/2024"
+    }
+   ]
+  }
+ ]
+}

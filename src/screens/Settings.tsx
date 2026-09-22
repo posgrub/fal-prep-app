@@ -46,6 +46,7 @@ export default function Settings({ profile }: { profile: UserProfile }) {
       <Card>
         <ul className="list">
           {user?.role === 'admin' && <Link to="/settings/users" className="list__item"><span>👥 Users (add students)</span><span className="list__chev">›</span></Link>}
+          <Link to="/guide" className="list__item"><span>📖 Study Guide (statute, rules, SFMO pages)</span><span className="list__chev">›</span></Link>
           <Link to="/settings/documents" className="list__item"><span>📚 Study Documents</span><span className="list__chev">›</span></Link>
           <Link to="/settings/harris-county" className="list__item"><span>📍 Harris County resources</span><span className="list__chev">›</span></Link>
           <Link to="/settings/about" className="list__item"><span>ℹ️ About / content version</span><span className="list__chev">›</span></Link>

@@ -1,0 +1,883 @@
+{
+ "id": "tdi-test-info",
+ "title": "Fire alarm registration, license, and test information (SFMO)",
+ "sourceUrl": "https://www.tdi.texas.gov/fire/information-fire-alarm-registration-license-test.html",
+ "retrievedOn": "2026-09-22",
+ "license": "Public Texas government text (TDI / State Fire Marshal). Verify against the live page before relying on fees or dates.",
+ "sections": [
+  {
+   "id": "tdi-test-info:01-instructions",
+   "heading": "Instructions",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Mailing address",
+       "Delivery address"
+      ],
+      [
+       "State Fire Marshal’s Office PO Box 12107 Austin, Texas 78711-2107",
+       "State Fire Marshal’s Office Texas Department of Insurance 1601 Congress Avenue, Ste. 6.900 Austin, Texas 78701"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "Licenses are issued to individuals; registrations are issued to companies.",
+      "Submit company and individual applications together when both the company and the individual are new.",
+      "You must include a fingerprint receipt with your application unless you already have fingerprints on file with the State Fire Marshal’s Office (SFMO).",
+      "We will send a renewal notice 90 days before your license expires. After your initial renewal, we will send the notice every two years.",
+      "SFMO mailing and delivery addresses"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:02-company-registrations",
+   "heading": "Company registrations",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "We can’t register a company without a licensed employee.",
+      "To be issued an Alarm Certificate of Registration, your designated employee must hold a Fire Alarm Technician, Fire Alarm Planning Superintendent, or Residential Fire Alarm Superintendent license. The Residential Fire Alarm Technician license alone is not enough for an Alarm Certificate of Registration."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:03-alarm-certificate-of-registration",
+   "heading": "Alarm Certificate of Registration",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "If your company plans, certifies, leases, sells, services, installs, monitors, or maintains fire detection devises or systems, you must have an Alarm Certificate of Registration (ACR). The extent of the work allowed by the company will depend on the license held by your employees."
+    },
+    {
+     "type": "p",
+     "text": "To get an ACR:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Application to Revise or Transfer All Types of Fire Alarm Licenses (PDF) for transferring an existing license with the ACR application.",
+      "Individual Application for All Types of Fire Alarm Licenses (PDF) for new individual licensee applications with the ACR application."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Submit the applications, forms, and fees at the same time."
+    },
+    {
+     "type": "p",
+     "text": "Note: Please send one payment to cover all fees. Combine fee payments for other applications."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:04-alarm-branch-office-certificate-of-registration",
+   "heading": "Alarm Branch Office Certificate of Registration",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "You must have an Alarm Branch Office Certificate of Registration (ACR – Branch Office) for each separate office location that does the same business as the company with the ACR."
+    },
+    {
+     "type": "p",
+     "text": "To get an ACR – Branch Office:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Application to Revise or Transfer All Types of Fire Alarm Licenses (PDF) for transferring an existing license with the ACR application if the employee is not listed with your company.",
+      "Individual Application for All Types of Fire Alarm Licenses (PDF) for new individual licensee applications with the ACR application if the employee is not currently licensed by SFMO."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Submit the applications, forms, and fees at the same time."
+    },
+    {
+     "type": "p",
+     "text": "Note: Please send one payment to cover all fees. Combine fee payments for other applications."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:05-alarm-certificate-of-registration-single-station",
+   "heading": "Alarm Certificate of Registration – Single-Station",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "If your company plans, certifies, leases, sells, services, installs, monitors, or maintains only single-station devices, your company must have an Alarm Certificate of Registration – Single-Station (ACR-SS)."
+    },
+    {
+     "type": "p",
+     "text": "To get an ACR–SS:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Application to Revise or Transfer All Types of Fire Alarm Licenses (PDF) for transferring an existing license with the ACR application.",
+      "Individual Application for All Types of Fire Alarm Licenses (PDF) for new individual licensee applications with the ACR application."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Submit the applications, forms, and fees at the same time."
+    },
+    {
+     "type": "p",
+     "text": "Note: Please send one payment to cover all fees. Combine fee payments for other applications."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:06-individual-licenses",
+   "heading": "Individual licenses",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "We can’t issue an individual license until you’re employed by a registered company."
+    },
+    {
+     "type": "p",
+     "text": "An individual must pass all required tests and have a fingerprint background check on file with SFMO before submitting a new license application."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:07-fire-alarm-planning-superintendent",
+   "heading": "Fire Alarm Planning Superintendent",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "If you sell, plan, install, certify, service, and monitor all types of fire alarm or detection devices or systems, you must have a Fire Alarm Planning Superintendent (APS) license."
+    },
+    {
+     "type": "p",
+     "text": "To get an APS:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Have a current Electronic Security Association (ESA) Level III Fire Alarm Designer certification.",
+      "Pass the National Institute for Certification in Engineering Technologies (NICET) Level III Fire Alarm Systems test.",
+      "Be a licensed Texas Professional Engineer."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Pass the Fire Alarm Statutes and Rules test. The study material for the test is the Texas Insurance Code Chapter 6002 and the Texas Administrative Code 34.600."
+    },
+    {
+     "type": "p",
+     "text": "Have a fingerprint background check done if you don’t have one on file with SFMO."
+    },
+    {
+     "type": "p",
+     "text": "Submit an Individual Application for All Types of Fire Alarm Licenses (PDF)."
+    },
+    {
+     "type": "p",
+     "text": "Provide the name of the company where the employee will be registered. If the company is not licensed with SFMO, the company will need to submit a Fire Alarm Certificate of Registration application (PDF)."
+    },
+    {
+     "type": "p",
+     "text": "Submit the applications, forms, and fees at the same time."
+    },
+    {
+     "type": "p",
+     "text": "Note: Please send one payment to cover all fees. Combine fee payments for other applications."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:08-fire-alarm-technician",
+   "heading": "Fire Alarm Technician",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "An individual with an Fire Alarm Technician (FAL) is permitted to sell, install, certify, service, and monitor all types of fire alarm or detection devices or systems. An FAL is not allowed to do any type of planning."
+    },
+    {
+     "type": "p",
+     "text": "To get an FAL:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Fire Alarm Statutes and Rules test. The study material for the test is the Texas Insurance Code Chapter 6002 and the Texas Administrative Code 34.600.",
+      "Fire Alarm Technician test. The technician exam may be waived if an individual holds a current ESA Level II Fire Alarm Technician certification or by passing the NICET Level II test."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Have a fingerprint background check done if you don’t have one on file with SFMO."
+    },
+    {
+     "type": "p",
+     "text": "Submit an Individual Application for All Types of Fire Alarm Licenses (PDF)."
+    },
+    {
+     "type": "p",
+     "text": "Provide the name of the company where the employee will be registered. If the company is not licensed with SFMO, the company will need to submit a Fire Alarm Certificate of Registration application (PDF)."
+    },
+    {
+     "type": "p",
+     "text": "Submit the applications, forms, and fees at the same time."
+    },
+    {
+     "type": "p",
+     "text": "Note: Please send one payment to cover all fees. Combine fee payments for other applications."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:09-fire-alarm-monitoring-technician",
+   "heading": "Fire Alarm Monitoring Technician",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "An individual with an Fire Alarm Monitoring Technician (AMT) is only permitted to monitor residential or commercial fire alarm or detection devices or systems."
+    },
+    {
+     "type": "p",
+     "text": "To get an AMT:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Fire Alarm Statutes and Rules test. The study material for the test is the Texas Insurance Code Chapter 6002 and the Texas Administrative Code 34.600.",
+      "Fire Alarm Monitoring test."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Have a fingerprint background check done if you don’t have one on file with SFMO."
+    },
+    {
+     "type": "p",
+     "text": "Submit an Individual Application for All Types of Fire Alarm Licenses (PDF)."
+    },
+    {
+     "type": "p",
+     "text": "Provide the name of the company where the employee will be registered. If the company is not licensed with SFMO, the company will need to submit a Fire Alarm Certificate of Registration application (PDF)."
+    },
+    {
+     "type": "p",
+     "text": "Submit the applications, forms, and fees at the same time."
+    },
+    {
+     "type": "p",
+     "text": "Note: Please send one payment to cover all fees. Combine fee payments for other applications."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:10-residential-fire-alarm-superintendent",
+   "heading": "Residential Fire Alarm Superintendent",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "An individual with an Residential Fire Alarm Superintendent (RAS) is permitted to sell, plan, install, certify, service, and monitor fire alarm or detection devices or systems in one- and two-family dwellings. An RAS can also perform all the functions of an FAL."
+    },
+    {
+     "type": "p",
+     "text": "To get an RAS:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Fire Alarm Statutes and Rules test. The study material for the test is the Texas Insurance Code Chapter 6002 and the Texas Administrative Code 34.600.",
+      "Fire Alarm Technical test. The technical exam may be waived if an individual holds a current ESA Level II Fire Alarm Technician certification or by passing the NICET Level II test.",
+      "Fire Alarm Residential test."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Have a fingerprint background check done if you don’t have one on file with SFMO."
+    },
+    {
+     "type": "p",
+     "text": "Submit an Individual Application for All Types of Fire Alarm Licenses (PDF)."
+    },
+    {
+     "type": "p",
+     "text": "Provide the name of the company where the employee will be registered. If the company is not licensed with SFMO, the company will need to submit a Fire Alarm Certificate of Registration application (PDF)."
+    },
+    {
+     "type": "p",
+     "text": "Submit the applications, forms, and fees at the same time."
+    },
+    {
+     "type": "p",
+     "text": "Note: Please send one payment to cover all fees. Combine fee payments for other applications."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:11-residential-fire-alarm-superintendent-single-station",
+   "heading": "Residential Fire Alarm Superintendent - Single Station",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "An individual with an Residential Fire Alarm Superintendent - Single Station (RAS-SS) is permitted to only sell, plan, install, certify, and service single- station heat or smoke detectors that are not connected to any other detection device or system, in one- or two-family dwellings."
+    },
+    {
+     "type": "p",
+     "text": "To get an RAS-SS:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Fire Alarm Statutes and Rules test. The study material for the test is the Texas Insurance Code Chapter 6002 and the Texas Administrative Code 34.600.",
+      "Fire Alarm Residential test."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Have a fingerprint background check done if you don’t have one on file with SFMO."
+    },
+    {
+     "type": "p",
+     "text": "Submit an Individual Application for All Types of Fire Alarm Licenses (PDF)."
+    },
+    {
+     "type": "p",
+     "text": "Provide the name of the company where the employee will be registered. If the company is not licensed with SFMO, the company will need to submit a Fire Alarm Certificate of Registration application (PDF)."
+    },
+    {
+     "type": "p",
+     "text": "Submit the applications, forms, and fees at the same time."
+    },
+    {
+     "type": "p",
+     "text": "Note: Please send one payment to cover all fees. Combine fee payments for other applications."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:12-residential-fire-alarm-technician",
+   "heading": "Residential Fire Alarm Technician",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "An individual with an Residential Fire Alarm Technician (RAL) is permitted to install, service, inspect, and certify residential single- family or two-family fire alarm or detection systems. A fire alarm certificate of registration cannot be issued to a company that only employs a person with an RAL license."
+    },
+    {
+     "type": "p",
+     "text": "To get an RAL:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Complete a residential fire alarm technician course conducted by a training school approved by SFMO.",
+      "Have a fingerprint background check done if you don’t have one on file with SFMO.",
+      "Submit an Individual Application for All Types of Fire Alarm Licenses (PDF).",
+      "Provide the name of the company with which the employee will be registered. If the company is not licensed with SFMO, the company will need to submit a Fire Alarm Certificate of Registration application (PDF).",
+      "Submit the applications, forms, and fees at the same time."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Note: Please send one payment to cover all fees. Combine fee payments for other applications."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:13-tests",
+   "heading": "Tests",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Type of licenses",
+       "Commercial",
+       "1 & 2 Family Dwelling",
+       "Required tests 2"
+      ],
+      [
+       "Plan",
+       "Install",
+       "Certify 1",
+       "Service 3",
+       "Monitor",
+       "Plan",
+       "Install",
+       "Certify 1",
+       "Service 3",
+       "Monitor",
+       "Fire Alarm Statutes and Rules TFM11",
+       "NICET III",
+       "Fire Alarm Technician TFM12",
+       "Fire Alarm Residential TFM13",
+       "Fire Alarm Monitoring TFM14",
+       "Approved Instruction Course"
+      ],
+      [
+       "Fire Alarm Planning Superintendent (APS)",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X 5",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Fire Alarm Technician (FAL)",
+       "",
+       "X",
+       "X",
+       "X",
+       "X",
+       "",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "",
+       "X 4",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Fire Alarm Monitoring Technician (AMT)",
+       "",
+       "",
+       "",
+       "",
+       "X",
+       "",
+       "",
+       "",
+       "",
+       "X",
+       "X",
+       "",
+       "",
+       "",
+       "X",
+       ""
+      ],
+      [
+       "Residential Fire Alarm Superintendent (RAS)",
+       "",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "X",
+       "",
+       "X 4",
+       "X",
+       "",
+       ""
+      ],
+      [
+       "Residential Fire Alarm Superintendent – Single Station Only (RAS-SS)",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "X",
+       "X",
+       "X",
+       "X",
+       "",
+       "X",
+       "",
+       "",
+       "X",
+       "",
+       ""
+      ],
+      [
+       "Residential Fire Alarm Technician (RAL)",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "X",
+       "X",
+       "X",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "X"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Work permitted by license type and required tests"
+    },
+    {
+     "type": "p",
+     "text": "1 “Certify” means that the licensee certifies that the system meets Chapter 6002 requirements. Certify does not mean the licensee can issue a certificate or placard stating that the system meets central station requirements."
+    },
+    {
+     "type": "p",
+     "text": "2 The technical testing requirements (other than Statutes and Rules TFM11) may be waived for a professional engineer licensed in Texas."
+    },
+    {
+     "type": "p",
+     "text": "3 “Service” includes inspecting, maintaining, repairing, or testing."
+    },
+    {
+     "type": "p",
+     "text": "4 This test can be replaced by meeting the exam requirements for NICET Level II, or by obtaining a current certification through ESA at Level II Fire Alarm Technician."
+    },
+    {
+     "type": "p",
+     "text": "5 This test can be replaced by meeting the exam requirements for NICET Level III, or by obtaining a current certification through ESA at Level III Fire Alarm Designer."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:14-scheduling-a-test",
+   "heading": "Scheduling a test",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Test are registered through PSI Exams Online. You may schedule your test either:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Online at www.psiexams.com/txfire.",
+      "By phone: 800-733-9267.",
+      "By email: examschedule@psionline.com."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:15-test-description",
+   "heading": "Test description",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "All tests are closed book.",
+      "Tests have 50 questions that are true/false or multiple choice.",
+      "Questions may refer to a drawing, chart, or figure included with the test.",
+      "Technical test questions are based on the adopted standards.",
+      "No questions are based on specific manufacturer’s equipment other than those generally referenced by an National Fire Protection Association (NFPA) standard."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:16-test-scores",
+   "heading": "Test scores",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "You must have a passing score of 70% or better.",
+      "PSI will send a copy of your official test scores to SFMO.",
+      "If you use another testing provider, include a copy of your NICET official score report with your application."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:17-test-restrictions",
+   "heading": "Test restrictions",
+   "level": 3,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "You may schedule each type of test only once a week and no more than three times every 12 months."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:18-fire-alarm-statutes-and-rules-tfm11-test",
+   "heading": "Fire Alarm Statutes and Rules TFM11 test",
+   "level": 4,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "All questions on this test are based on the Texas Insurance Code Chapter 6002 and the Texas Administrative Code 34.600."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:19-fire-alarm-technician-tfm12-test",
+   "heading": "Fire Alarm Technician TFM12 test",
+   "level": 4,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The technical testing requirements (other than the Statutes and Rules test) may be waived for a professional engineer licensed in Texas."
+    },
+    {
+     "type": "p",
+     "text": "Most questions on this test are based on the fire alarm sections contained in the NFPA standards adopted in the rules. See the Texas Insurance Code Chapter 6002 and the Texas Administrative Code 34.600 to determine the latest edition date of the adopted standards."
+    },
+    {
+     "type": "p",
+     "text": "The Fire Alarm Technician test includes the National Fire Alarm and Signaling Code – NFPA 72 (except the chapter on Household Fire Alarms)."
+    },
+    {
+     "type": "p",
+     "text": "The Technician Qualifying test includes only Articles 760, 300, and other articles referenced in the following standards:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "National Electrical Code – NFPA 70, Article 760 & 300",
+      "Standard for the Installation of Sprinkler Systems – NFPA 13",
+      "Standard for Dry Chemical Extinguishing Systems – NFPA 17",
+      "Standard for Wet Chemical Extinguishing Systems – NFPA 17A",
+      "Standard for the Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems – NFPA 25",
+      "Standard for the Installation of Air-Conditioning and Ventilating Systems – NFPA 90A"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "The Fire Alarm Technician test questions are based on the adopted standards. There may be questions based on practical knowledge of general electrical wiring practices or principles of electricity."
+    },
+    {
+     "type": "p",
+     "text": "Questions on the test include but are not limited to the following subjects:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Detection circuits.",
+      "Supervisory circuits.",
+      "Notification circuits."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Alarm testing requirements and frequency."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:20-fire-alarm-residential-tfm13-test",
+   "heading": "Fire Alarm Residential TFM13 test",
+   "level": 4,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The technical testing requirements (other than the Statutes and Rules TFM11 test) may be waived for a professional engineer licensed in Texas."
+    },
+    {
+     "type": "p",
+     "text": "This test is based only on information contained in the chapter on Household Fire Alarm Systems of the National Fire Alarm and Signaling Code – NFPA 72."
+    },
+    {
+     "type": "p",
+     "text": "Questions on the Fire Alarm Residential test include the following subjects about household fire alarm systems:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Detector type, location, and spacing.",
+      "Required amounts of detectors.",
+      "Detector requirements for single and multiple stations.",
+      "Power supplies.",
+      "Maintenance and tests."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:21-fire-alarm-monitoring-tfm14-test",
+   "heading": "Fire Alarm Monitoring TFM14 test",
+   "level": 4,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The technical testing requirements (other than the Statutes and Rules TFM11 test) may be waived for a professional engineer licensed in Texas."
+    },
+    {
+     "type": "p",
+     "text": "All questions on this test are based on the two following standards. See the Texas Insurance Code Chapter 6002 and the Texas Administrative Code 34.600 to determine the latest edition date of the adopted standards."
+    },
+    {
+     "type": "list",
+     "items": [
+      "National Fire Alarm and Signaling Code – NFPA 72. See the chapter on Supervising Station Fire Alarm Systems and other chapters referenced.",
+      "Underwriters Laboratories Inc. – UL 827 Central-Station Alarm Services (2008 Edition)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:22-nicet-level-ii-or-level-iii-test",
+   "heading": "NICET Level II or Level III test",
+   "level": 4,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "You must give SFMO a copy of the completion letter you got from NICET showing that you completed the testing requirements for certification at the required Level II or Level III in Fire Protection Engineering Technology and Fire Alarm Systems."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:23-esa-level-ii-fire-alarm-technician-or-level-iii-fire-alarm-d",
+   "heading": "ESA Level II Fire Alarm Technician or Level III Fire Alarm Designer Certification",
+   "level": 4,
+   "blocks": [
+    {
+     "type": "p",
+     "text": "You must give SFMO proof of ESA certification at Level II or Level III. Certifications shouldn’t be expired."
+    }
+   ]
+  },
+  {
+   "id": "tdi-test-info:24-fees",
+   "heading": "Fees",
+   "level": 2,
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Certificate of registration",
+       "Initial fee",
+       "Renewal fee (2 year)"
+      ],
+      [
+       "Main office",
+       "$500",
+       "$1,000"
+      ],
+      [
+       "Branch office (each)",
+       "$150",
+       "$300"
+      ],
+      [
+       "Single-Station only",
+       "$250",
+       "$500"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Company certificate of registration fees"
+    },
+    {
+     "type": "list",
+     "items": [
+      "To get a copy of the registration or to revise your registration, send the Company Information Update Form (PDF) and a $20 fee to SFMO.",
+      "Send one payment to cover all fees. Combine multiple fee payments into one.",
+      "All fees are nonrefundable, except for overpayments resulting from mistakes of law or fact.",
+      "We will charge a late fee, as required by statute and rules."
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Type of license",
+       "Initial fee",
+       "Renewal fee (2 year)"
+      ],
+      [
+       "Alarm Planning Superintendent (APS)",
+       "$120",
+       "$200"
+      ],
+      [
+       "Fire Alarm Technician (FAL)",
+       "$120",
+       "$200"
+      ],
+      [
+       "Alarm Monitoring Technician (AMT)",
+       "$120",
+       "$200"
+      ],
+      [
+       "Residential Alarm Superintendent (RAS)",
+       "$120",
+       "$200"
+      ],
+      [
+       "Residential Alarm Superintendent – Single Station (RAS-SS)",
+       "$120",
+       "$200"
+      ],
+      [
+       "Residential Alarm Technician (RAL)",
+       "$50",
+       "$100"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Individual fire alarm license fees"
+    },
+    {
+     "type": "list",
+     "items": [
+      "To get a duplicate license, change or add an employer, send the Application to Revise or Transfer All Types for Fire Alarm Licenses (PDF) and a $20 fee to SFMO.",
+      "Send one payment to cover all fees. Combine multiple fee payments into one.",
+      "All fees are nonrefundable, except for overpayments resulting from mistakes of law or fact.",
+      "We will charge a late fee, as required by statute and rules."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "For more information, contact: FMLicensing@tdi.texas.gov"
+    },
+    {
+     "type": "p",
+     "text": "Last updated: 4/6/2026"
+    }
+   ]
+  }
+ ]
+}

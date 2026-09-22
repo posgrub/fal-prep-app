@@ -6,9 +6,11 @@ import { startDailyTest } from '../db/session';
 import { curriculum, topicLabel } from '../content';
 import { Badge, Card, Header, ProgressBar, pct } from '../components/ui';
 import { useState } from 'react';
+import { useAuth } from '../auth/AuthContext';
 
 export default function Today({ profile }: { profile: UserProfile }) {
   const nav = useNavigate();
+  const { user } = useAuth();
   const [busy, setBusy] = useState(false);
   const progress = useLiveQuery(() => db.dayProgress.where('userId').equals(profile.id).toArray(), [profile.id]);
   const attempts = useLiveQuery(() => db.testAttempt.where('userId').equals(profile.id).toArray(), [profile.id]);
@@ -36,6 +38,7 @@ export default function Today({ profile }: { profile: UserProfile }) {
   return (
     <>
       <Header title={`Hi, ${profile.name.split(' ')[0]}`} right={<Link to="/settings" aria-label="Settings">⚙️</Link>} />
+      {user && <p className="small muted" style={{ textAlign: 'center', marginTop: -8, marginBottom: 10 }}>Signed in as {user.email} · <Link to="/settings">Settings / sign out</Link></p>}
       <Card className="card--hero">
         <p className="muted small">{allDone ? 'Course complete' : `Week ${day.week} · Day ${day.day} of ${curriculum.days.length}`} · <Badge tone="info">{day.exam}</Badge></p>
         <h2>{day.title}</h2>

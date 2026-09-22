@@ -8,6 +8,10 @@ import './styles.css';
 
 registerSW({ immediate: true });
 
+// The first release had no accounts and kept progress in a database named 'fal-prep'.
+// Remove it so a cached pre-login profile can never surface without signing in.
+try { indexedDB.deleteDatabase('fal-prep'); } catch { /* ignore */ }
+
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <BrowserRouter>
